@@ -45,7 +45,7 @@ In particular, unlike in fiction, there is no secret family of billionaires look
 
 The aforementioned themes, however, are entirely intentional.
 
-Please note that the opinions stated and implied by the characters don't necessarily reflect my own.  Some are very close.  Some are convenient to the story.  Yelling at me, because you disagree with a fictional person, isn't smart.  Don't be that guy.
+Please note that the opinions stated and implied by the characters don't necessarily reflect my own.  Some are quite close.  Some are convenient to the story.  Yelling at me, because you disagree with a fictional person, isn't smart.  Don't be that guy.
 
 Several characters, organizations, and events are drawn from content made available for use under appropriate Free Culture licenses.  Please see the *Credits* section at the end for details on their origins and licensing arrangements.
 
@@ -79,7 +79,7 @@ Lucy Eldine Gonzalez Parsons (1853--1942)
 
  > *Nay, but our land is large and rich enough*
 
- > *For us and ours and millions more - her need*
+ > *For us and ours and millions more --- her need*
 
  > *Is working men; she cries to let them in.*
 
@@ -105,13 +105,13 @@ To be fair, we do have a fair amount of content available under a Free Culture l
 
 If you're willing to expand into the non-free licenses, the list expands significantly, but I'm not interested in that world.
 
-Regardless of the scope, though, very few of the properties feel like they could sustain an open-ended series in another medium, even with money and talent poured in arbitrarily.  Those that do feel like they can survive tend to be built around the voice and aesthetic of a single creator.  That's not to say that a Hollywood-style movie franchise should be some sort of ultimate goal anybody's work, of course.  But, to the extent it feels like a work would be hard to adapt and extend, the work seems like it's cutting against the grain of the modern entertainment industry.
+Regardless of the scope, though, few of the properties feel like they could sustain an open-ended series in another medium, even with money and talent poured in arbitrarily.  Those that do feel like they can survive tend to be built around the voice and aesthetic of a single creator.  That's not to say that a Hollywood-style movie franchise should be some sort of ultimate destination of anybody's work, of course.  But, to the extent it feels like a work would be hard to adapt and extend, the work seems like it's cutting against the grain of the modern entertainment industry.
 
 So, in true *be the crackpot you want to see in the world* spirit, the Silver Bat is an attempt to lay the foundations of a hypothetical superhero universe.  It resembles, but definitely is not, our world.  The organization has a hundred-year history, with many main and side characters at any given time.  I can't vouch for the quality and realize that the story won't work for every reader, but I think this is the step forward on building a Free Culture universe that feels like the sort of place that big-name comic books or movies might be set without being the sort of thing that a large company would rush to publish.
 
 And there's more to this world to come.  The Luminary and his associated heroes are still out there, and I have a fairly good idea of who they are, only waiting on a story.
 
-But whether or not this series continues or expands, it is now available to the world, under a license that allows *you* to take it in your own direction.  I will probably protect the trademark of the Silver Bat name, but the world and characters are now as much yours as mine, as long as you comply with the terms of the license.
+Whether this series continues or expands, though, it is now available to the world, under a license that allows *you* to take it in your own direction.  I will probably protect the trademark of the Silver Bat name, but the world and characters are now as much yours as mine, as long as you comply with the terms of the license.
 
 Note that, for convenience and verisimilitude, just like I'm licensing this novel to be used by others, the novel makes use of works under compatible free licenses.  Please review the **Credits** section for details.
 
