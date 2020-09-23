@@ -10,9 +10,9 @@ I'm not saying that I definitely come from a long line of criminal fascist idiot
 
 They're also not particularly bright.  My father has an hour blocked off on his schedule every morning to pick out a *wristwatch*.  Three assistants guide him through his day and he's still late for everything, but the man will have a watch band that matches his socks, by God, or die trying!  He got the habit, and most of the watches, from his father, just like I have a closet full of watches I only use when I need to kiss up to the family.
 
-Granted, I'm a waste, too, living off a trust fund partying and playing lacrosse when it isn't polo season, but I'm not doing it to make a buck off of oppressed minorities.  I'm doing it to burn off some of the family fortune.  I'm doing it so that nobody notices the money that goes to soup kitchens and mobile clinics, which it turns out are just petty cash when you go through money like I do, and hiding it keeps Wooster Amalgamated from _helping_ by supplying equipment and supplies sourced from what I can only imagine would be the very best sweatshops and slave camps around the world.
+Granted, I'm a waste, too, living off a trust fund partying and playing lacrosse when it isn't polo season, but I'm not doing it to make a buck off oppressed minorities.  I'm doing it to burn off some of the family fortune.  I'm doing it so that nobody notices the money that goes to soup kitchens and mobile clinics, which it turns out are just petty cash when you go through money like I do, and hiding it keeps Wooster Amalgamated from _helping_ by supplying equipment and supplies sourced from what I can only imagine would be the absolute best sweatshops and slave camps around the world.
 
-Me?  I'm Egbert Buckminster Mannering Wooster.  My family calls me "Bertie," just like my father, grandfather, and so forth going back at least a hundred years, and I'm not sure which name is worse.  My friends just call me E. B. or Eebee, which is at least *slightly* less awkward.  For a few years at school, I campaigned for "Bucky," but nobody took my lead on that, even when I took jobs and introduced myself that way.  I should just be happy that I'm rich enough to not have been a B. M. or an E. W., I guess.
+Who am I?  I'm Egbert Buckminster Mannering Wooster.  My family calls me "Bertie," just like my father, grandfather, and so forth going back at least a hundred years, and I'm not sure which name is worse.  My friends just call me E. B. or Eebee, which is at least *slightly* less awkward.  For a few years at school, I campaigned for "Bucky," but nobody took my lead on that, even when I took jobs and introduced myself that way.  I should just be happy that I'm rich enough to not have been a B. M. or an E. W., I guess.
 
 Regardless, duty, whatever horrifying family duty this might be, calls.  I text Jeeves, but it turns out he already did his valet magic for the morning, setting out a double-breasted three-piece that's precisely the shade of blue that makes grandpa angry.  Jeeves is an artist.  His family has been working for mine for generations, for some insane reason.  His father still works for mine.  We bond over how stupidly evil my family is, sometimes, and he's gotten me out of more than a few scrapes.
 
@@ -22,7 +22,7 @@ Now, I *should* head directly to the Wooster Amalgamated headquarters, honestly,
 
 I pull up to a hole-in-the-wall coffee shop on the Cibola border.  Most of the young Quiviran elites meet up in places like this, simply because it's usually a safe bet that our parents wouldn't be caught dead anywhere near here.
 
-"Waleed, it's been too long!"  We hug.  Waleed Sadozai was one of my close friends in college.  A sharp, up-and-coming investigative journalist with a few published historical fiction novels on the side, he's the kind of guy I can rant with about the cognitive dissonance between living with what's basically unlimited wealth and working quietly to fix inequality.  I do it as just a dilettante, but he very deliberately made it his career.
+"Waleed, it's been too long!"  We hug.  Waleed Sadozai was one of my close friends in college.  A sharp, up-and-coming investigative journalist with a few published historical fiction novels on the side, he's the kind of guy I can rant with about the cognitive dissonance between living with what's basically unlimited wealth and working quietly to fix inequality.  I do it as just a dilettante, but he so deliberately made it his career.
 
 "It has, man.  I'm sorry I didn't swing by when your grandfather passed."
 
@@ -34,7 +34,7 @@ I pull up to a hole-in-the-wall coffee shop on the Cibola border.  Most of the y
 
 "Believe me, I know.  But I can barely convince my own colleagues that we shouldn't let our employers pay people artificially low wages and then sell out to hedge funds intent on gutting the entire operation.  A national work stoppage seems out of the question, when even the people who would report on such a movement aren't sure that cooperative effort is worth the trouble.  Sorry to be a downer, though.  How are your...side projects shaping up?"
 
-"Not bad, actually.  Your girlfriend put me in touch with a few companies looking to get cheap food and meds off the market, which I'm all too happy to help them out with.  And one of the kids who works with me on the clinics came up with a design for the cars that's not only appealing, but distinctive enough that we can spread the word and have people who need us find us while also being generic enough that we can quickly camouflage them and merge into traffic if any authorities get suspicious that we're aiding and abetting or something.  We're also in the very early stages of maybe looking at putting some effort towards housing issues."
+"Not bad, actually.  Your girlfriend put me in touch with a few companies looking to get cheap food and meds off the market, which I'm all too happy to help them out with.  And one of the kids who works with me on the clinics came up with a design for the cars that's not only appealing, but distinctive enough that we can spread the word and have people who need us find us while also being generic enough that we can quickly camouflage them and merge into traffic if any authorities get suspicious that we're aiding and abetting or something.  We're also in the super-early stages of maybe looking at putting some effort towards housing issues."
 
 "That's amazing.  I wish I could put my trust fund to better use."
 
@@ -64,13 +64,13 @@ Wooster Amalgamated's American headquarters is "the Arcology" in downtown Quivir
 
 If you haven't been out this way, from a distance, the entirety of the Seven Cities (as a side note, not really seven) comes close to resembling a single building.  One building blends into the next, sometimes constructed on top of each other or over and under roads, with sky-ways and suspended walkways creating an environment where a person could live an entire life without touching the ground or seeing the Sun, and quite a few of our poorer residents do exactly that, unfortunately.
 
-The Arcology takes that a step further.  Downtown comprises several buildings that stand discretely apart from the rest of the city above-ground, where zoning laws give capital a little bit of elbow room, and one of those buildings is the monster architected by my great-grandfather.  Inside Wooster Amalgamated's headquarters is a complete ecosystem with air and water recycling and some indoor farming, plus facilities where the thousands of employees can move in, if they so desire.  So far, no actual employee has taken them up on the offer, of course, except during the occasional divorce or eviction, so the housing mostly serves as a hotel.
+The Arcology takes that a step further.  Downtown comprises several buildings that stand discretely apart from the rest of the city above-ground, where zoning laws give capital a bit of extra elbow room, and one of those buildings is the monster architected by my great-grandfather.  Inside Wooster Amalgamated's headquarters is a complete ecosystem with air and water recycling and some indoor farming, plus facilities where the thousands of employees can move in, if they so desire.  So far, no actual employee has taken them up on the offer, of course, except during the occasional divorce or eviction, so the housing mostly serves as a hotel.
 
 Typical Wooster folly, thinking that workers would want to live at their offices and shop at the company store.  It's late-stage capitalism at its finest.
 
 The family offices are in the penthouse, the better to look down on everyone else, I'll bet.  The glass elevator through a jungle is pretty, at least.
 
-On the higher floors, a surprising number of people wear similar jewelry, silver rings, pins, and brooches that look like the an upside-down A with the crossbar extended into a kind of frown.  That's one weird rich-people fad, weirder that I'm not in on it.  Must be someone's "follow your dreams" kid selling them or something.
+On the higher floors, a surprising number of people wear similar jewelry, silver rings, pins, and brooches that look like an upside-down **A**, with the crossbar extended into a kind of frown.  That's one weird rich-people fad, weirder that I'm not in on it.  Must be someone's "follow your dreams" kid selling them or something.
 
 Dad's assistant Nisa, one of those strange pins on her lapel, ushers me into the office.
 
@@ -104,7 +104,7 @@ There's a woman with a bandana over her face.  A cartel agent tries to sneak up 
 
 "My father claimed he did help the Luminary out a couple of times, though."  Grandpa Robert somehow managed to survive this family with a reasonable name.
 
-"Grandfather, the Luminary was just some kind of urban legend.  Strange visitor from another--"
+"Grandfather, the Luminary was just some kind of urban legend.  Peculiar visitor from another--"
 
 "He's long retired, and he helps fund marketing that keeps Madame Strange productions in the public eye to misdirect, but he is real enough that you have met him once or twice.  Can't tell you who, though.  That would be for him to tell, some day."  A likely story.  Unless...
 
@@ -112,7 +112,7 @@ There's a woman with a bandana over her face.  A cartel agent tries to sneak up 
 
 "Oh, I see.  So, Wooster Amalgamated is *really* a secret front for some sort of expensive Scarlet Pimpernel?  Sure.  I'll be going now, maybe find some not-lying people to talk to for a while.  And maybe the superheroes you claim are real can be the entertainment at the next holiday party."
 
-"Bertie, let's start over, because you're quite close to the mark and I think we're looking in the same direction.  Walk, and remember who used to read you *The Scarlet Pimpernel* when you were young."  He gestures out and we all get into the elevator as I get a pit in my stomach, like I'm about to get a theatrical *we're not so different, you and I* speech.  "You know, and have probably come to hate, the image of Bertram Wooster."
+"Bertie, let's start over, because you're quite close to the mark and I think we're looking in the same direction.  Walk, and remember who used to read you *The Scarlet Pimpernel* when you were young."  He gestures out, and we all get into the elevator as I get a pit in my stomach, like I'm about to get a theatrical *we're not so different, you and I* speech.  "You know, and have probably come to hate, the image of Bertram Wooster."
 
 "The man who expanded Wooster Amalgamated and started collaborations with war criminals?  Yeah, you might say that pretty much covers my feelings."
 
@@ -126,7 +126,7 @@ There's a woman with a bandana over her face.  A cartel agent tries to sneak up 
 
 "Bertie, my sweet child," Grandma Serafina interrupts," recall Poe's *Purloined Letter*, where the detective finds what the prefect cannot, because it's sitting right out in the open, while officials are looking for elaborate hiding places."
 
-"And you'll learn quickly that the merest display of vanity," Grandpa Robert sniffs as he strokes his eyebrow, "a few well-timed malapropisms, and the occasional gallingly conspicuous disregard for human rights in front of the right people, and like the Pimpernel, they seek you here and they seek you there, never considering the damned, elusive agent is posing with them for a photo op."
+"And you'll learn quickly that the merest display of vanity," Grandpa Robert sniffs as he strokes his eyebrow, "a few well-timed malapropisms, and the occasional gallingly conspicuous disregard for human rights in front of the right people, and like the Pimpernel, they seek you here, and they seek you there, never considering the damned, elusive agent is posing with them for a photo op."
 
 "No..."
 
@@ -134,15 +134,15 @@ There's a woman with a bandana over her face.  A cartel agent tries to sneak up 
 
 "And that brings us back to Bertram, who tried but failed to do anything about the Thracian genocide.  He later hired a team to join him in Armenia, only saving a few dozen lives, but he knew he was onto something.  His underground railroad in the face of the October Revolution was a bit more successful, but it wasn't until a few years later that, with a small inheritance of technology from a former drinking buddy, he came on the plan for the League of the Silver Bat, a resistance organization modeled on the League of the Scarlet Pimpernel."  There's no way he could have successfully timed that speech to end just as the elevator doors re-open, but here we are.
 
-"But it's not always about large-scale, capital-O oppression," Dad continues.  Often, it can't be, because those cases are too high profile.  Vigilantism, exploitation, domestic abuse, terrorism, even abuse of power, each individual in danger is important and, yes, sometimes that means cozying up to some spectacularly nauseating people, using the image of stupidity to pump them for information, convince them to let their guard down, or even set them up to take a fall.  Bertram actually dressed up like a bat on his first trip to America to expose a phony detective on the take from the mob, so a little bit of superhero-style melodrama isn't out of the question, either.  But, sometimes it means getting into bad markets to subtly inject subversive messages into the discourse or to fleece the so-called 'centrists' or 'moderates' who don't seem to mind seeing the people in their midst being harmed, because they don't want to rock the boat too much."
+"But it's not always about large-scale, capital-O oppression," Dad continues.  Often, it can't be, because those cases are too high profile.  Vigilantism, exploitation, domestic abuse, terrorism, even abuse of power, each individual in danger is important and, yes, sometimes that means cozying up to some spectacularly nauseating people, using the image of stupidity to pump them for information, convince them to let their guard down, or even set them up to take a fall.  Bertram actually dressed up like a bat on his first trip to America to expose a phony detective on the take from the mob, so an occasional soupçon of superhero-style melodrama isn't out of the question, either.  But, sometimes it means getting into bad markets to subtly inject subversive messages into the discourse or to fleece the so-called 'centrists' or 'moderates' who don't seem to mind seeing the people in their midst being harmed, because they don't want to rock the boat too much."
 
 "So, then what's all---"
 
-"OK, OK.  Skipping ahead a few generations to get to you.  Last night, I broke up a sweatshop in Little Javasu."  Dad gestures around and, suddenly, I actually look at the office around me, not decorated like the rest of the building and no direct natural light, except maybe through little pipes poking out of the ceiling.  The workers, all with that same jewelry, are all having intense conversations with anywhere from one to three people who look to be in pretty bad shape, with a couple of dozen of them almost certainly from Javasu."
+"OK, OK.  Skipping ahead a few generations to get to you.  Last night, I broke up a sweatshop in Little Javasu."  Dad gestures around and, suddenly, I actually look at the office setting that's surrounding me, not decorated like the rest of the building and no direct natural light, except maybe through strange little pipes poking out of the ceiling.  The workers, all with that same jewelry, are all having intense conversations with anywhere from one to three people who look to be in pretty bad shape, with a couple of dozen of them almost certainly from Javasu."
 
-Off in the background, someone is listening to the news, something about actor Xavier Exley being arrested for connection with something unfortunate.
+Off in the background, someone is listening to the news, something about actor Xavier Exley being arrested for connection with something unfortunate, again.
 
-"This is our company's *other* Human Resources department, the one that official applicants never see.  The folks from the sweatshop are here, as well as the usual daily handful of people who our associates have found trafficked, abused, or otherwise harmed without much recourse.  Down here, we make sure to place them in decent jobs with Wooster Amalgamated and other companies where we have an 'in.'  For the handful who are in immediate danger, they'll be quietly moved somewhere else in the country with a new identity, though we don't have the resources of an actual Witness Protection Program.  And those who are in an opportunity to provide evidence against their abusers, we schedule court appointments and provide security.  Some also need housing, and we just so happen to have open rooms in the Arcology at any given time."
+"This is our company's *other* Human Resources department, the one that official applicants never see.  The folks from the sweatshop are here, as well as the usual daily handful of people who our associates have found trafficked, abused, or otherwise harmed without much recourse.  Down here, we make sure to place them in decent jobs with Wooster Amalgamated and other companies where we have an 'in.'  For the handful who are in immediate danger, they'll be quietly moved somewhere else in the country with a new identity, though we don't have the resources of an actual Witness Protection Program.  And those who are in position to provide evidence against their abusers, we schedule court appointments and provide security.  Some also need housing, and we just so happen to have open rooms in the Arcology at any given time."
 
 "Well, congratulations, it sounds like you have it all figured out."
 
@@ -150,7 +150,7 @@ Off in the background, someone is listening to the news, something about actor X
 
 "Georgiana, don't be so dramatic.  You're scaring the child."  Heh.  I'm not happy with the "child" comment, but damn, Grandpa Robert knows where to hit hard.  As long as I've known him, despite the obsession with looking his best, he has been the social version of a jeweler, carefully inspecting the facets he needs to work with and, after careful consideration, taking one decisive *crack* that causes everything to break his way.
 
-"To the extent that any of them takes orders.  Can't really lead a group of go-getters like this, so much as point in a direction and be good enough for them to want to follow, or identify the best ideas and back them," Grandma Serafina corrects.  "You know the story about the marksman calling his target after taking the shot.  We never would have prevented the Kravonian genocide if one of our associates hadn't pulled us in."
+"By leadership, incidentally, she means to the extent that any of them takes orders.  You can't ever really lead a group of go-getters like this, so much as point in a direction and be good enough for them to want to follow, or identify the best ideas and back them," Grandma Serafina corrects.  "You know the story about the marksman calling his target after taking the shot.  We never would have prevented the Kravonian genocide if one of our associates hadn't pulled us in."
 
 Dad takes something shiny out of his pocket.  "Wait, what are you---?"  It's that upside-down A, which I now see is obviously a stylized bat, the **Silver Bat**, and pins it on my lapel.
 
@@ -158,7 +158,7 @@ Dad takes something shiny out of his pocket.  "Wait, what are you---?"  It's tha
 
 He continues.  "We have been watching your little network of care for a few years, now, and the way it has grown and the way you haven't compromised on your mission shows that you're ready to take Wooster Amalgamated and the League into the future.  If you'll come back up to the office, we'll handle the paperwork to give you control of the company and start training you."
 
-"I'll also introduce you to some of the accountants, Bertie, because you need to put in some work to better cover the tracks of those clinics.  Shell companies and big purchases aren't enough of a shield."
+"I'll also introduce you to a few of the accountants, Bertie, because you need to put in some work to better cover the tracks of those clinics.  Shell companies and big purchases aren't enough of a shield."
 
 I almost jump out of my skin as Nana Isla speaks.  I almost forgot she was even there, her smirk hinting that wasn't accidental.  "But also, no pressure, Bertie.  If you want to just keep feeding and healing people from the shadows, it's not like we could be any prouder of you."
 
