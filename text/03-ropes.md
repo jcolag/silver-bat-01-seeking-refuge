@@ -6,7 +6,7 @@ Imagine that, but where the artifice of uncaring white-collar criminals falls an
 
 This morning has been a blur of introductions, meeting dozens of people just at Wooster Amalgamated's Saracinia headquarters who are responsible for either keeping the company running or ensuring that the League operates safely.
 
-The tone varies wildly as we move through the building.  All offices have those awful pictures of members of my family grinning for the camera while shaking hands with the likes of M͒ar̦kuen̻z S͖chmachenbùrg, Baron Ozama, Josef Stalin, or Laden Twala Twala.  But, in some of the less accessible rooms, dedicated to League business, each picture has a list of names next to it, people saved from labor camps or military raids, secreted out of the country often right under the smug despot's nose.  There is also a list of those millions the League has failed to save, from around the world.
+The tone varies wildly as we move through the building.  All offices have those awful pictures of members of my family grinning for the camera while shaking hands with the likes of M͒ar̦kuen̻z S͖chmachenbùrg, Baron Ozama, Josef Stalin, or Laden Twala Twala.  But, in some less accessible rooms---those dedicated to League business---each picture has a list of names next to it, people saved from labor camps or military raids, secreted out of the country often right under the smug despot's nose.  There is also a list of those millions the League has failed to save, from around the world.
 
 And that doesn't even touch on the hour-long session with the scariest accountant I've ever laid eyes on, who created a system of shell companies, political committees, and charities that make it easier for me to funnel my trust fund into feeding and healing disadvantaged people around Cibola...and apparently, my mother's leg, the other night.  It turns out that I've been accidentally aiding and abetting the liberation of local people in danger for the past few years, at least inside the Seven Cities.
 
@@ -26,7 +26,7 @@ I interrupt.  "Putting the complex under Wooster management only means they're b
 
 "Apparently, from the best."
 
-The whole thing as we walk back into the C-suite, hugs included, is surreal, even dizzying, especially after a lifetime of assuming that my family was the problem.  They family signs over enough of their shares to me to make me the majority shareholder and then...I really should have seen this coming.
+The whole thing as we walk back into the C-suite, hugs included, is surreal, even dizzying, especially after a lifetime of assuming that my family was the problem.  The family signs over enough of their shares to me to make me the majority shareholder and then...I really should have seen this coming.
 
 "Bertie, it's been a long morning.  Go grab lunch to process all of this."  Mom gets that knowing grin on his face.  "Oh, and since you were so passionate about the apartment ownership issue, you should probably grab the paperwork from Julieta in Realty on your way out and pitch your community land trust to them.  I assume you'll want to see your idea through, after all.  You have an appointment to speak with the renters this afternoon."
 
@@ -36,7 +36,7 @@ Well, I walked right into that one.  Nana Isla surprises me again, seeming to ap
 
 It occurs to me that I'm going to need backup on my---ahem---first mission.  So, a quick stop between Realty and the front door.  "Eun-Ju?"  Bhang Eun-Ju is the terrifying accountant from before.  She nods me over, lighting up as she pulls out a set of ledgers.
 
-"Yes, Mr. Wooster.  I'm glad you're back.  I realized that we can set up an entire layer of political committees to completely hide the money moving through them, as long as a few dollars occasionally go to politicians you want to support, and you might also invest in a car dealership to move your---"
+"Yes, Mr. Wooster.  I'm glad you're back.  After you stepped out, I realized that we can set up an entire layer of political committees to completely hide the money moving through them, as long as a few dollars occasionally go to politicians you want to support, and you might also invest in a car dealership to move your---"
 
 See?  Terrifying!  I sat through an hour of this and I still sometimes need to count on my fingers.
 
@@ -48,7 +48,7 @@ See?  Terrifying!  I sat through an hour of this and I still sometimes need to c
 
 Mission accomplished!
 
-We're loaning each of the residents some money, so they'll effectively be paying some "rent" for a while.  Three of them needed better jobs and two needed childcare, which I think Wooster Amalgamated can handle.  Three more needed Eun-Ju's magic accountant pixie dust to keep the purchase off of the radar of abusive exes.  And we're going to need to set them up with a good contractor willing to negotiate their rates, but the city has twenty-six new home-owners and their umbrella organization has a fiscal duty to keep prices affordable, should they expand in the future.
+We're loaning each of the residents some money, so they'll effectively be paying some "rent" for a while.  Three of them needed better jobs and two needed childcare, which I think Wooster Amalgamated can handle.  Three more needed Eun-Ju's magic accountant pixie dust to keep the purchase under the radar of abusive exes.  And we're going to need to set them up with a good contractor willing to negotiate their rates, but the city has twenty-six new home-owners and their umbrella organization has a fiscal duty to keep prices affordable, should they expand in the future.
 
 Eun-Ju stays behind to help a few of them with business plans, most legal, one or two...less so, but we can't exactly judge, since they're not hurting anybody and it's not like Eun-Ju's work doesn't already include an almost comical amount of money laundering.  Since she's acting like a kid in an actual candy store, I slip out, but not before making a note to ask her if this sort of scheme would scale through the entire city, empowering hundreds of thousands instead of the dozens we happen to notice.
 
@@ -62,13 +62,13 @@ Down on one of the street levels, I'm about to get in my car, when I hear an alm
 
 "Eebee?  Eebee Wooster?  Can that be you?"
 
-"Yelena, it's been so long since we got together!  What are you even doing in this neighborhood?  I know why I'm here, but isn't it a little bit...beneath your station?"
+"Yelena, it's been so long since we got together!  What are you even doing in this neighborhood?  I know why I'm here, but isn't it a little...beneath your station?"
 
 "Of course not, silly, no more than it's beneath yours.  My father may have re-married into money, but his sister's daughter's cousin's uncle's girlfriend lives up yonder."  A beat, then, "OK, I was born down here.  You've heard my father call me Marcia?  When he met my step-mom, he decided that sounded too low-class and tried to use my middle name, but we still have friends down here."
 
 "I'm sorry, I had no idea."  That's an understatement, but it's all I have.
 
-"For a lot of my life, that was sort of the point, with my parents trying hard to hide where we came from.  But that's not worth obsessing over.  Y'know, I'm meeting some folks down at the museum for a small auxilliary art installation, sort of a private preview show.  You should come along, actually!  It's a lot of that industrial-look stuff you used to like and the artist is big on grand scale arguments about economics.  It's definitely your crowd."
+"For a lot of my life, that was sort of the point, with my parents trying hard to hide where we came from.  But that's not worth obsessing over.  Y'know, I'm meeting some folks down at the museum for a small auxiliary art installation, sort of a private preview show.  You should come along, actually!  It's a lot of that industrial-look stuff you used to like and the artist is big on grand scale arguments about economics.  It's definitely your crowd."
 
 I check the time.  I do still need some time to absorb this morning and looking too anxious to get back to the office might seem suspicious.  "I think can do that, at least for a bit, for an old friend."
 
@@ -86,19 +86,19 @@ I haven't gone that far, but the goals?
 
  > ...one might have admired so fine a specimen of English manhood, until the foppish ways, the affected movements, the perpetual inane laugh, brought one's admiration of Sir Percy Blakeney to an abrupt close.
 
-That hits a little bit close to home.
+That hits pretty close to home.
 
-Yeah, that's right.  Some kids grow up with stories about knights errant or youxia or whatnot rescuing rich people in distress in want of a spouse.  Some kids get picture books.  I was regaled every night by my family with the adventures of a rich guy creating a network of resistance fighters to save people from executions, a hero who pretends to be an idiot to hide in plain sight.  I'd argue that's a bit too on the nose for what my family was hiding, but more to my immediate point, it was years before I realized that not everybody could quote from the original novel.
+Yeah, that's right.  Some kids grow up with stories about knights errant or youxia or whatnot rescuing rich people in distress in want of a spouse.  Some kids get picture books.  I was regaled every night by my family with the adventures of a rich guy creating a network of resistance fighters to save people from executions, a hero who pretends to be an idiot to hide in plain sight.  I'd argue that's a bit too "on the nose" for what my family was hiding, but more to my immediate point, it was years before I realized that not everybody could quote from the original novel.
 
 Regardless of my exposure to the book, I hope that the family is wrong about this.  I would rather be able to find some balance between the weighty responsibility I feel, now that I've seen behind the curtain at Wooster Amalgamated, and acting like a jackass to keep people from trusting me.
 
-Despite my distaste, I start to play the part.  As Yelena and I traverse the city, we stop off for manicures, pedicures, hair styling, fragrances, and so forth.  I leave myself a note to send more business to that tailor, too, since this outfit looks like a nightmare, but still somehow manages to be comfortable.
+Despite my distaste, I start to play the part.  As Yelena and I traverse the city, we stop off for manicures, pedicures, hairstyling, fragrances, and so forth.  I leave myself a note to send more business to that tailor, too, since this outfit looks like a nightmare, but still somehow manages to be comfortable.
 
-"We might be hitting the point of diminishing returns, Eebee," Yelena finally suggests, probably finally bored of this shaggy dog story of an outing.  "You look great, considering where we started, and the show is getting pretty close."
+"We might be hitting the point of diminishing returns, Eebee," Yelena finally suggests, probably finally bored with this shaggy dog story of an outing.  "You look great, considering where we started, and the show is getting pretty close."
 
 OK, fair.  I did forget that this was all to visit with Yelena's friend rather than my building a disguise.  Back in the car!
 
-When we arrive at the museum, Yelena identifies us to the guard, who sends us to another door and apologizes that it's not a private entrance.  We walk around and enter.  I see a handful of Wooster Amalgamated people milling around outside and then looking at some of the outer exhibits.  I guess that shouldn't be surprising, since we're not far from the office and it's not a bad museum at all.
+When we arrive at the museum, Yelena identifies us to the guard, who sends us to another door and apologizes that it's not a private entrance.  We walk around and enter.  I see a handful of Wooster Amalgamated people milling around outside and then looking at a few of the outer exhibits.  I guess that shouldn't be surprising, since we're not far from the office and it's not a bad museum at all.
 
 A host spots Yelena and, after looking my outfit over as if I just stepped out of a flying saucer, escorts us down a snaking corridor to what must be close to the rear of the building.  And when we reach the door...he vanishes.  I feel my heart rate increasing, suddenly concerned this is some sort of scam as I open the door into absolute pitch blackness.
 
@@ -114,7 +114,7 @@ I try to find something to say, something that lets me at least lie to myself th
 
 As I slowly manage to pull myself back together after an emotional day, Yelena admits that visiting her family was pretext to meet up with me.  She tells me all about them and the new land cooperative they bought into.  From the sound of it, one of Eun-Ju's new clients is her cousin.
 
-Grandma Serafina and Grandpa Robert pull me aside to compliment the new outfit, too.  Not that they can help providing notes in their back-handed compliments, and I will want to take them into account.  They also promise to help me find that balance, so that I don't need to exclusively live the life of a moronic fop to get anything done.
+Grandma Serafina and Grandpa Robert pull me aside to compliment the new outfit, too.  Not that they can help but provide notes in their back-handed compliments, and I will want to take them into account.  They also promise to help me find that balance, so that I don't need to exclusively live the life of a moronic fop to get anything done.
 
 The British cousins all showed, too, amazingly enough.  Some are with the family business.  Some are with the secret underbelly of the family business, too.  I've only met a few of them before tonight, and most of them when we were just children, so there is no way I'm going to remember even a quarter of their names.
 
@@ -126,7 +126,7 @@ I'm almost afraid to ask.
 
 Ohhhh, crap.  Oh crap oh crap oh crap.  This is how I'm going to d---
 
-No, get it together, kid!  Let them see weakness and they'll eat me alive.
+No, get it together, kid!  Let them see weakness, and they'll eat me alive.
 
 "Bertie, even your wings out.  You don't want to stall at that speed," Mom explains over the radio.  "Also, your heart rate and galvanic skin response..."
 
@@ -148,7 +148,7 @@ Seriously, though, focus.  Hawaii below, less than half an hour from the mainlan
 
 "Roger, Silver Bat.  Notifying ground."  As I make the turn, even slowing down, I can feel the change in direction.  I have to wonder how this thing turns so smoothly.  At this speed, I'd expect to not so much "feel" anything as find myself thrown violently to the side fast enough to break most of my bones and pulp most of my internal organs.
 
-The computer shows a landing platform ahead, inside a ring of some sort---of course, it's going to be a volcano.  Hopefully dormant, but even active would probably be safer than flying this monster.  I activate the detection counter-measures and cut my speed.  As the island comes into view, yep, it's a volcano, and I flip on the automatic landing sequence, the metal wings starting to flap on a mostly vertical descent.
+The computer shows a landing platform ahead, inside a ring of some sort---of course, it's going to be a volcano.  I hope that it's dormant, but even active would probably be safer than flying this monster.  I activate the detection counter-measures and cut my speed.  As the island comes into view, yep, it's a volcano, and I flip on the automatic landing sequence, the metal wings starting to flap on a mostly vertical descent.
 
 After touching down, I roll out of the bat while a middle-aged local mounts the platform and approaches.
 
@@ -174,7 +174,7 @@ Loading the new raft into a torpedo tube, I start the wing-flapping again to lif
 
 "Ground to Silver Bat," Rangi cuts in on the radio.  "We have a reading in the refugees, on bearing three-two-two.  Infrared should detect them."  He's right.  I see them.
 
-I circle the reef a couple of times, both to make sure I can see how bad they have it and so they understand that I'm here to help rather than make their situation worse.  I come in low behind them to launch the raft, watching it expand a good mile away from anybody, so that it doesn't do more harm than good *and* gives me some space to make sure this towing scheme will work.
+I circle the reef a couple of times, both to make sure I can see how bad they have it, and so they understand that I'm here to help rather than make their situation worse.  I come in low behind them to launch the raft, watching it expand a good mile away from anybody, so that it doesn't do more harm than good *and* gives me some space to make sure this towing scheme will work.
 
 Touching down on the ocean's surface, I find a speed to drag the raft around and bring the raft to the reef.  When half the group is aboard the raft, so that we don't overload it and risk more lives, I slowly make my way to the shore.
 
