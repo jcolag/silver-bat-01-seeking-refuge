@@ -18,13 +18,13 @@ Soon after, checking into the Mammoth San Grobiano, receiving yet another redund
 
 "Central," I use the old-fashioned throat microphone to minimize sound as I set up some white noise emitters.  "Excellent work on the suite.  Patch me through to Pandora."
 
-"Acknowledged, Reremouse.  Pandora online," he explains.  The codenames are, honestly, pretty stupid, but this operation is a big enough deal that I don't want to risk any explicit information getting out until long after we've packed up and left.
+"Acknowledged, Reremouse.  Pandora online," he explains.  The code-names are, honestly, pretty stupid, but this operation is a big enough deal that I don't want to risk any explicit information getting out until long after we've packed up and left.
 
 "This is Reremouse, Pandora.  What's our status?"
 
 "Target-Alpha will take the meeting with me.  I'm already connected to their internal network and am entering the Consolidated building now."
 
-"Acknowledged, Pandora.  I'll stay on to monitor.  Signal if you need assistance."  She won't.  Pandora may just be a codename, but *pan*-*dora*, the all-gifted...well, it wasn't chosen at random.
+"Acknowledged, Pandora.  I'll stay on to monitor.  Signal if you need assistance."  She won't.  Pandora may just be a code-name, but *pan*-*dora*, the all-gifted...well, it wasn't chosen at random.
 
 "Marwat Eadil to see Mister Flint," I hear over the link.
 
@@ -82,7 +82,7 @@ Sixty percent.  I spot an American flag scrolls through the chat log, suggesting
 
 "...would not be comfortable, given the reliance our users have on these services, without a guaranteed median response time."
 
-"If users are as reliant on the services as you say, would they not be willing to wait a little bit longer?"
+"If users are as reliant on the services as you say, would they not be willing to wait a bit longer?"
 
 "We do track usage during congested periods and can easily see that there is a precipitous drop, some users never returning."
 
@@ -104,7 +104,7 @@ Ninety percent.  Almost there.  Fāng posts a series of building emoji, indicati
 
 "...and yet, if we pay for each account at the time of the merger, we would have no idea which accounts have been created by real people or are at all active."
 
-"Mister Flint...*Will*, the only reasonable measure of the strength of the network is the number of accounts, to which you have already agreed.  Therefore, it must stand to reason that each account carries a value, whether or not your team has the interest in authenticating anything they see.  Your lack of diligence does not decrease the value of the property."  Wow, she's really putting the screws to him, now that we're getting towards the end.
+"Mister Flint...*Will*, the only reasonable measure of the strength of the network is the number of accounts, to which you have already agreed.  Therefore, it must stand to reason that each account carries a value, regardless of whether your team has the interest in authenticating anything they see.  Your lack of diligence does not decrease the value of the property."  Wow, she's really putting the screws to him, now that we're getting towards the end.
 
 "But we would need to invest in..."
 
