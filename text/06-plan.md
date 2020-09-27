@@ -16,7 +16,7 @@
 
  > *The air-bridged harbor that twin cities frame.*
 
- > 
+ >
 
  > *"Keep, ancient lands, your storied pomp!" cries she*
 
@@ -106,7 +106,7 @@ Oh, well.  Live and learn, as they say.  Assuming we live, of course.  Living wo
 
 Nearer to the halfway mark, it feels like an eternity, even though the calculations beforehand said that it would probably only be around five or six minutes at the most.  But I also have a sudden confidence that we'll get to the light at the end of the literal tunnel, possibly because I can actually see that light for the first time.  The rattling sound has lessened, which should mean that we've all gotten better at riding without shifting too far off the center-line, just single file along the length of the pipe.  Readings suggest that the air is completely unbreathable, now, with all the exhaust pouring out.  To his credit, Guerrero caught that possibility and recommended oxygen masks; I'll have to owe him lunch for that insight.
 
-Three-quarters, the knot in my stomach is back as it sinks in how much needs to be done to pull this off, how many of those tasks require precision timing, and how thoroughly inexperienced I am, potentially taking this group into a fire-fight with members of actual evil secret conspiracies bent on destroying democracy and equality.  As a bonus, despite that little crisis of confidence, I manage to not wreck the vehicle.
+Three-quarters, the knot in my stomach is back, as it sinks into how much needs to be done to pull this off, how many of those tasks require precision timing, and how thoroughly inexperienced I am, potentially taking this group into a fire-fight with members of actual evil secret conspiracies bent on destroying democracy and equality.  As a bonus, despite that little crisis of confidence, I manage to not wreck the vehicle.
 
 I'm coming up on the last mile, less than a minute until all Hell breaks loose, and there's suddenly plenty to do besides merely managing to not die.
 
