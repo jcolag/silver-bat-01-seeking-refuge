@@ -1,6 +1,6 @@
 # A Signal of Introduction
 
-The guards keep coming and we're on the verge of being overwhelmed.  We aren't going to deliberately kill anybody and we don't have the means to fight off an entire army, even if we didn't care about casualties.
+The guards keep coming and we're on the verge of being overwhelmed.  We aren't going to deliberately kill anybody, and we don't have the means to fight off an entire army, even if we didn't care about casualties.
 
 And then, out of nowhere, everything breaks out in complete chaos when the Silver Bat streaks overhead, engines screeching like an injured animal.  I didn't schedule it, but whoever it is---my money is on Mom, always out for the dramatic twist---must have been monitoring, probably with the help of Guerrero.  Guerrero's involvement becomes more obvious when an honest to goodness flying saucer screams through the sky, getting into what appears to be a dogfight with the Silver Bat, completely pulling the attention of the guards away from us and occasionally firing ordinance in the space between the guards and us to keep them from approaching us.
 
@@ -28,17 +28,17 @@ The guard taps on his keyboard and I'm suddenly convinced that our prestigious (
 
 "Oh, I definitely know what you mean, sir, and thanks for the heads up," Chakladar offers, but the guard is already back checking his text messages.  If Flint wasn't scum that actively goes out of his way to undermine the strength of democratic institutions or if Nick didn't seem to be offended that he's not quite on the right side of history, I'd probably complain about the weak work ethic in the organization's employees.  To be fair, it's not like there are many employers in the area that aren't Flint or subsidiaries.
 
-Regardless, we walk the remaining length of the hall, unable to see beyond the windowless doors, this far in.  A group of guards passes us from the opposite direction, barely paying us any attention.  Normally, that would be a good thing, but not here.  I briefly struggle and push Fāng enough to get them to focus, giving Verheyen the opportunity to quickly step to the side and pick the rear-most guard's pocket to grab his security key-card.  Fāng smacks me in the shoulder with his weapon to force me down to my knees---a surprisingly good shot from someone who makes such a big deal about not being a fighter---and I raise my arms in surrender before the other guards decide to help.  They see that I'm back under control and we all move on.
+Regardless, we walk the remaining length of the hall, unable to see beyond the windowless doors, this far in.  A group of guards passes us from the opposite direction, barely paying us any attention.  Normally, that would be a good thing, but not here.  I briefly struggle and push Fāng enough to get them to focus, giving Verheyen the opportunity to quickly step to the side and pick the rear-most guard's pocket to grab his security key-card.  Fāng smacks me in the shoulder with his weapon to force me down to my knees---a surprisingly good shot from someone who makes such a big deal about not being a fighter---and I raise my arms in surrender before the other guards decide to help.  They see that I'm back under control, and we all move on.
 
 We finally reach the interrogation room, two doors up from the enormous steel door separating this wing from Flint's Fiery Cross and GORGON activities.  As we enter, making sure nobody is looking in our direction, Verheyen silently vaults up the edge of the door to the overhead lighting.  She adds a small transformer to the circuit that increases the brightness on the fixture, ideally making any guards slightly less likely to scrutinize anything strange they might see in this direction; thank goodness for harsh fluorescent lighting.  When Verheyen comes back down, she has a GORGON-issued pistol in her hand, presumably left in the lighting fixture by one of our adversaries who wanted to stay undercover at Flint.
 
 I backtrack quickly to the last intersection and close their acrylic glass gate, hoping to muffle any sound that might come out of the work ahead of us.
 
-Inside the interrogation room, we set up our temporary base of operations, Fāng already laying out several computers of various sorts.  I change out of my jumpsuit and into a uniform.  We can't be entirely sure that the same uniforms are used on both sides of the big door, but better to look like we're just in the wrong part of the building than to stick out like a sore thumb in 1940s GORGON regalia or similar nonsense.  In one case, we can at least apologize and beg anybody who spots us to not report us while we retreat.  In the other case, we look like a paramilitary assault team wearing what might very well be an outdated costume, which would be spectacularly likely to get us shot.  So, it's not like there's any pressure, here.
+Inside the interrogation room, we set up our temporary base of operations, Fāng already laying out several computers of various sorts.  I change out of my jumpsuit and into a uniform.  We can't be entirely sure that the same uniforms are used on both sides of the big door, but better to look like we're just in the wrong part of the building than to stick out like a sore thumb in 1940s GORGON regalia or similar nonsense.  In one case, we can at least apologize and beg anybody who spots us to not report us while we retreat.  In the other case, we look like a paramilitary assault team wearing what might well be an outdated costume, which would be spectacularly likely to get us shot.  So, it's not like there's any pressure, here.
 
 "Tè, can you get us any information on the other side of that door, out there?"  I probably already know the answer, but I wouldn't mind being pleasantly surprised.  Regardless, Fāng is already prepared for the question.
 
-"No, boss.  It looks like the walls are all lined with metal sheets.  The other side might as well be stashed inside of a Faraday cage."
+"No, boss.  It looks like the walls are all lined with metal sheets.  The other side might as well be stashed inside a Faraday cage."
 
 "Hm.  Alexia, is there any chance your bag of tricks has something that can cut through metal sheets?"
 
@@ -60,7 +60,7 @@ I drop a white noise generator in the doorway as Bill kicks the door wide open t
 
 "Hey!  This room is off-limits to all personnel!"  They turn and Saifuddin knocks one of the pair out.  The other turns back and I jump him.  He fights back, stronger than I expected, but Bill and Alexia help and we manage to subdue him without too much trouble.
 
-They're both wearing GORGON rings.  Making sure both men are unconscious, I grab them and we search the two thugs for any other identification that might help us as we go further into this labyrinth, not to mention relieving them of their weapons.  Their uniforms seem to be the same as ours, so there's a decent chance we chose correctly.
+They're both wearing GORGON rings.  Making sure both men are unconscious, I grab them, and we search the two thugs for any other identification that might help us as we go further into this labyrinth, not to mention relieving them of their weapons.  Their uniforms seem to be the same as ours, so there's a decent chance we chose correctly.
 
 "Alexia, how's that hole coming?"
 
@@ -72,7 +72,7 @@ They're both wearing GORGON rings.  Making sure both men are unconscious, I grab
 
 And then I see why GORGON agents came to this room, a wall full of filing cabinets with the distinctive Medusa-head logo.  While we're waiting anyway, we shouldn't let the opportunity pass.  "Saifuddin, help me out, here.  Let's crack the locks on these and get pictures of what we can."  While I set up to take pictures, a quick glance at my cellphone shows that the jammers are apparently still working, too.  That's an encouraging sign.  It probably means they're still scrambling out in the yard, too.
 
-"Bad news, Eebee," Bill returns.  "I can't find any affordances on this side of that blast door, no fingerprints, nothing exposed.  Odds are really good that the control is entirely from the other side, so we'll need access or help in getting through."
+"Bad news, Eebee," Bill returns.  "I can't find any affordances on this side of that blast door, no fingerprints, nothing exposed.  Odds are in favor of the control being entirely from the other side, so we'll need access or help in getting through."
 
 "Well, help doesn't exactly seem likely, but if Alexia can manage to cut through, Tè can probably rig up access.  In the meantime, let's relocate Tè in here for when that happens and have the two of you join us in copying these files.  They all look encoded, but if they're anything operational, we may be able to use them in the future.
 
@@ -82,12 +82,12 @@ And then I see why GORGON agents came to this room, a wall full of filing cabine
 
 "Psst."  Alexia waves us all over from the files.  "OK, everybody.  I think I'm through.  Tè, grab an antenna and let's punch through to find out."
 
-About an hour later, we haven't put anything like a significant dent in the files, but that's not why we're here and we still have a fair collection to bring back.  Of course, we're also not in the business of knocking out and collecting GORGON agents, and yet we've got six of them tied up and tranquilized in the corner, so sometimes life is full of little surprises, I guess.
+About an hour later, we haven't put anything like a significant dent in the files---though that's not why we're here---and we still have a fair collection to bring back.  Of course, we're also not in the business of knocking out and collecting GORGON agents, and yet we've got six of them tied up and tranquilized in the corner, so sometimes life is full of little surprises, I guess.
 
-"I'm on their network!  It's completely different than what's on this side, completely different protocols and security, but it's a lot better to work with than taking pictures of files."  The kid brings up a fair point.  "Working...working...I can see their security setup, a lot more sophisticated than what we've been dealing with out here, but I think I can weaken it a little.  And those are are the controls for the lighting, the interior door controls, separate from the cell doors over here, and this looks like the door right out there.  OK, I think I've got it."
+"I'm on their network!  It's completely different from what's on this side, completely different protocols and security, but it's a lot better to work with than taking pictures of files."  The kid brings up a fair point.  "Working...working...I can see their security setup, a lot more sophisticated than what we've been dealing with, out here, but I think I can weaken it a little.  And those are the controls for the lighting, the interior door controls, separate from the cell doors over here, and this looks like the door right out there.  OK, I think I've got it."
 
 "Well, then," I ask, "are we all ready to walk into the lion's den?"  Granted, this would be a highly awkward time to decide to turn back, but it's also the last time we'll have that option.
 
 "Absolutely," they all say in unison.
 
-"Then gather up your stuff and let's go!"  Tè works a bit more and there's a clanking sound in the hall, the door unlocking for us.
+"Then gather your equipment and let's go!"  Tè works a bit more and there's a clanking sound in the hall, the door unlocking for us.
