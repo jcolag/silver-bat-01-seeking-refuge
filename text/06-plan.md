@@ -28,7 +28,7 @@
 
  > *Send these, the homeless, tempest-tost to me,*
 
- > *I lift my lamp beside the golden door!*
+ > *I lift my lamp beside the golden door!"*
 
 Emma Lazarus, 1833
 
