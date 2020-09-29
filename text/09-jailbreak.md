@@ -46,7 +46,7 @@ He's right.  Looks like the wall is mostly plastic sheeting with computers and s
 
 We wait a couple of minutes while everybody else gets back into position.  The entire secret facility is now disabled from four locations, and Tè has been coordinating a plan for us to get some use out of that.
 
-"Everybody hold the tablet up to the hatch.  One of the conduits comes directly from the main circuit.  Another goes to where we need it.  The tablet will show which those are.  I need you all to bridge those two conduits.  Update when you're done."
+"Everybody, hold the tablet up to the hatch.  One of the conduits comes directly from the main circuit.  Another goes to where we need it.  The tablet will show which those are.  I need you all to bridge those two conduits.  Update when you're done."
 
 "Houdini clear."
 
@@ -88,7 +88,7 @@ As I approach the others, I see guards, unconscious, bruised, and trussed up in 
 
 "I'm glad you could join us," Alexia points out.
 
-"You know how it is.  A little bit of traffic on the freeway and everybody's schedule falls apart."
+"You know how it is.  A little more traffic on the freeway than usual, and everybody's schedule falls apart."
 
 Fāng shows up.  "With the extra power," he explains, "I was able to overload some key circuits to zap or just distract the remaining guards.  That one," he points over his shoulder to a guard thrown over a chair, "even got a jolt out of his identification ring."
 
@@ -106,9 +106,9 @@ An issue beyond that, the prisoners have started to notice that we're speaking E
 
 "I believe you're overlooking one significant resource in our tool-chest," Saifuddin interrupts.  "One of us is an escape artist who *might* be able to pick a lock or two."
 
-"Ta-da!  Guilty!"  Alexia bows.  I motion and she gets to work, one lock at a time, an astonishing few seconds per lock.  Twelve attempts, twelve open cell doors, over a hundred refugees to get out of here.
+"Ta-da!  Guilty!"  Alexia bows.  I motion, and she gets to work, one lock at a time, an astonishing few seconds per lock.  Twelve attempts, twelve open cell doors, over a hundred refugees to get out of here.
 
-I jump up on a chair, stifling a scream when my leg reminds me that's a bad idea, to quiet them all down.  "We are here to get you out," I shout, pausing to give the bilingual people a moment to translate for the others.  We need to move quickly, though, and may need to fight our way out.  If anybody feels safer staying, we disagree, but if so, you can and should return to your cell before any new guards arrive."  Nobody does.  In fact, several of them step forward.
+I jump up on a chair, stifling a scream when my leg reminds me that's a bad idea, to quiet them all down.  "We are here to get you out," I shout, pausing to give the bilingual people a moment to translate for the others.  "We need to move quickly, though, and may need to fight our way out.  If anybody feels safer staying, we disagree, but if so, you can and should return to your cell before any new guards arrive."  Nobody does.  In fact, several of them step forward.
 
 "We will help you fight."
 
@@ -116,7 +116,7 @@ I jump up on a chair, stifling a scream when my leg reminds me that's a bad idea
 
 We run for the main door of the secret facility, still closed and still deactivated.  Bill and I pull the door open.  Tè pokes a camera out.  The hall is clear back as far as the checkpoint.  That's a good sign, for the first time in a while.
 
-We file out the door and congregate in the interrogation room to pick up the equipment we left behind, including a large number of corrections officer uniforms and a handful of prisoner jumpsuits.  This will be a much more difficult bluff than on the way in, but it's what we have to work with.
+We file out the door and congregate in the interrogation room to pick up the equipment we left behind, including corrections officer uniforms and a handful of prisoner jumpsuits.  This will be a much more difficult bluff than on the way in, but it's what we have to work with.
 
 As we approach the guarded checkpoint, I see that Liang is still at the desk, meaning we might have a fighting chance, here.
 
@@ -150,7 +150,7 @@ The lead guard barks orders at the others, who run into the other wing, weapons 
 
 "I---I work for Flint, just like you," I plead, Mom's melodrama showing in full force.  "And I got my job through completely real channels, not just because I'm Flint's cousin's step-grandson like some of those jerks in Human Resources keep saying."  He's still raging out---probably on some sort of drug---but he slowly lowers his rifle.  There's nothing scarier to a lot of these people than the prospect of offending a member of some rich racist's self-entitled family.  I know, because I grew up thinking that described me, only recently discovering that the family wasn't racist.  Well, it's more that they're not *deliberately* racist, at any rate, and they do try to correct themselves when they put their feet in their mouths.  The point is, I know a little something about nepotism and fascists.
 
-I'm getting off topic, here, and the rifle predictably comes back up.  "The boss wouldn't dig it if, like, one of the president's favorite extended family members had to file for workman's comp.  Forget about what *his* bosses might say."
+I'm getting off the topic, here, and the rifle predictably comes back up.  "The boss wouldn't dig it if, like, one of the president's favorite extended family members had to file for workman's comp.  Forget about what *his* bosses might say."
 
 He lowers the rifle again and our freed prisoners swarm in to take the jerk down.  He goes down almost instantly, which is good, because I'm only just barely hanging on.  One of our new friends grins at me.  "Ĉu ĉio bona, estro?"
 
@@ -160,13 +160,13 @@ After securing the guard, we rejoin the rest of the group.  "We're not done, yet
 
 We head for the supply closet out front that we used to stash our gear and change back into the more forgiving and utilitarian outfits we wore on the way in.  I break out packs of more comfortable clothing than prison jumpsuits for the rest of our group and, having passed them out, start inflating the sledge.  The quads barely got five of us through the pipeline, and we can't exactly have a hundred more people ride along, let alone the number of oxygen tanks we'd need to keep them out of that polluted air.  But wrapping them in a cushioned air pocket, they'll be fine for the few minutes we're pulling them along.
 
-Everything ready, Fāng hits his panic button to activate every alarm in the facility and we move out, all of us carrying the inflated sledge to the pipeline.  A couple of guards remain, many of them unfortunately cut down by friendly fire and many more called away to other emergencies or simulated emergencies we called.  That's the good news.
+Everything ready, Fāng hits his panic button to activate every alarm in the facility, and we move out, all of us carrying the inflated sledge to the pipeline.  A couple of guards remain, many of them unfortunately cut down by friendly fire and many more called away to other emergencies or simulated emergencies we called.  That's the good news.
 
 The bad news?  Our quads are trashed, probably hit with grenades in addition to getting pretty thoroughly shot through.  About all that can be done is set the charges to blow them up after we're gone, to minimize the evidence or technology that GORGON might be able to access.
 
-"A change of plans, everybody.  We have a twenty mile walk ahead of us without our expected protection.  I'll cover the rear.  If you see anybody struggling, help them along.  I admit that it'll be tough, but I can't help but suspect that it might be tougher to stay here."
+"A change of plans, everybody.  We have a twenty-mile walk ahead of us without our expected protection.  I'll cover the rear.  If you see anybody struggling, help them along.  I admit that it'll be tough, but I can't help but suspect that it might be tougher to stay here."
 
-The remaining guards finally start to notice us.  One runs back into the prison, while the others take position behind some debris to take aim.  "Everybody go, now!"
+The remaining guards finally start to notice us.  One runs back into the prison, while the others take position behind some debris to take aim.  "Everybody, go, now!"
 
 Our people start filing into the pipeline.  First five enter, then ten.  The guards fire a volley of shots.  I realize I've been carrying around one of the GORGON rifles, so while I'd rather not reduce this mission to a shoot-out and risk manslaughter, I send out...what's the phrase, suppressive fire?  I try to keep them on the defensive, while we evacuate.  Thirty through.  Forty through.  The guards try to advance, but I've gotten the hang of the aim on this thing to shoot in front of them without hitting any of them, penning them in.
 
@@ -192,7 +192,7 @@ The next mile brings a realization that we still have a resource available.  "Ha
 
 Every hundred feet or so, I fire off another burst at the guards.  We're slowing down, but there's no reason they to just *let* them catch up to us.
 
-After a while longer, I pass the seam that Fāng mentioned, and see that he has rigged up some sort of a relay station that probably allows him to broadcast his signal to outside the pipeline.  If it's still here, that probably means he made contact.  And given their speed and how far in we've gotten...
+After a while longer, I pass the seam that Fāng mentioned, and see that he has rigged up some sort of relay station that probably allows him to broadcast his signal to outside the pipeline.  If it's still here, that probably means he made contact.  And given their speed and how far in we've gotten...
 
 Roughly another mile, off in the distance, I can hear the drones coming, apparently undamaged in the fight.  It's impossible to see the details at this distance, but from the sound of it, Fāng has the drones strafing our pursuers with rubber bullets, pushing them forward from their position to avoid the pain but unable to push forward due to my rifle.
 
@@ -201,17 +201,17 @@ Then, to the microphone, I figure we might as well make their position more diff
 "They do, boss.  Let's see how it sounds," he laughs.  And then, off in the distance beyond the guards, tinny speakers come alive.
 
  > *I am never known to quail*
- 
+
  > *At the fury of a gale,*
- 
+
  > *And I'm never, never sick at sea!*
- 
+
  > *What, never?*
- 
+
  > *No, never!*
- 
+
  > *What, *never*?*
- 
+
  > *Hardly ever!*
 
 ...and so forth.  I let them stew in another verse and some of *I'm Called Little Buttercup*.  Psychological warfare to go with the physical harassment, since they don't exactly seem like Gilbert and Sullivan fans.
@@ -224,7 +224,7 @@ Then, to the microphone, I figure we might as well make their position more diff
 
 They pause and have a quick debate amongst themselves.  "OK, let's talk."
 
-"No negotiation.  You surrender.  We capture you and treat you humanely.  Well, as humane as a twenty mile walk can be.  I repeat:  We won't harm you and you're on the wrong side of this argument in every respect."
+"No negotiation.  You surrender.  We capture you and treat you humanely.  Well, as humane as a twenty-mile walk can be.  I repeat:  We won't harm you and you're on the wrong side of this argument in every respect."
 
 "...Fine."
 
