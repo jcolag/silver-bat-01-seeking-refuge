@@ -2,7 +2,7 @@
 
 I come to a few more miles in, what seems like it's probably somewhere near the halfway point.  Both legs throb and are tied up in assorted improvised first aid devices.  It should go without saying that I don't stay conscious for long, just long enough to moan and possibly scream in pain.
 
-Drifting in and out of consciousness, I have dreams of monstrous bats diving from the night sky doing battle with snake-headed beauties.  I dream of Bertram, my ancestor, watching his parents die and dedicating his life to freeing oppressed people around the world.  I dream of Bertram's friend, Bruce Fordyce, using his technology to assassinate---murder---people he saw as a threat to progress.  I dream of Nana Isla appearing in a puff of smoke to arrest criminals.  I dream about those classic comic book heroes---the Madame Stranges, the Clocks, the Blue Bolts---coming to life and suddenly needing to understand the law and post-traumatic stress better than a lazy writer would want to.  I dream of threatening my friends, scaring them to get them to run away from me, then despairing at my loneliness.  I dream of being a child again, held like I'm flying by a laughing old man whose skin is red and scaly.  I dream of the bright future the Nick Liangs and the Jawaras of the world can have, if we can only dismantle the ideas and systems holding them back.  I dream about playing chess against a man in a black robe, which a bit more derivative than I usually prefer, as metaphors go.  But most of all, I dream about falling, falling endlessly with no end in sight, half-wondering why my life isn't flashing in front of my eyes and feeling like I'm just on the verge of some kind of a revelation in that respect.
+Drifting in and out of consciousness, I have dreams of monstrous bats diving from the night sky doing battle with snake-headed beauties.  I dream of Bertram, my ancestor, watching his parents die and dedicating his life to freeing oppressed people around the world.  I dream of Bertram's friend, Bruce Fordyce, using his technology to assassinate---murder---people he saw as a threat to progress.  I dream of Nana Isla appearing in a puff of smoke to arrest criminals.  I dream about those classic comic book heroes---the Madame Stranges, the Clocks, the Blue Bolts---coming to life and suddenly needing to understand the law and post-traumatic stress better than a lazy writer would want to.  I dream of threatening my friends, scaring them to get them to run away from me, then despairing at my loneliness.  I dream of being a child again, held like I'm flying by a laughing old man whose skin is red and scaly.  I dream of the bright future the Nick Liangs and the Jawaras of the world can have, if we can only dismantle the ideas and systems holding them back.  I dream about playing chess against a man in a black robe, which a bit more derivative than I usually prefer, as metaphors go.  But most of all, I dream about falling, falling endlessly with no end in sight, half-wondering why my life isn't flashing in front of my eyes and feeling like I'm just on the verge of some kind of revelation in that respect.
 
 In my lucid moments, assuming I'm not just dreaming about being carried through a pipe, too---what would have to be the most disappointing fantasy life imaginable---it finally sinks in just how much information I've had to absorb.  It finally sinks in how many changes I've had to make, the completely different life I lead.  And it sinks in how much prouder I am of my family and the struggle I have ahead of me to be worthy of what they do, what *I* do, now, too.
 
@@ -14,7 +14,7 @@ I slowly regain consciousness, finally.  I'm still in a fog and still in all kin
 
 One of the men responds.  "It has been mostly quiet.  One of the guards tried to hurt one of your people and escape, but she is back under control.  Another patrol tried to follow us, but Fojaist," he gestures to someone out of my field of vision, "held them off and chased them back.  And Mnoqislasch," he gestures at another one further ahead, "is trying to learn the songs from your drones.  Right, Slaschi?"
 
-Further away, I hear, "The hours creep on apace, my guilty heart is quaking!  Oh, that I might retrace the step that I am taking.  Its folly it were easy to be showing, what I am giving up and whither going..."  The pronunciation on some of the vowels is a little bit off, I guess, but I'm barely able to form complete words, so I shouldn't really criticize, even silently.
+Further away, I hear, "The hours creep on apace, my guilty heart is quaking!  Oh, that I might retrace the step that I am taking.  Its folly it were easy to be showing, what I am giving up and whither going..."  The pronunciation on some vowels is off by a bit, I guess, but I'm barely able to form complete words, so I shouldn't really criticize, even silently.
 
 The original man continues.  "We were also able to remove the bullet from your leg and stop the bleeding; Dunspri says it was a flesh wound and you should be fine.  We also cleaned the wound on your foot.  You should be safe."
 
@@ -26,7 +26,7 @@ I realize that I'm hungry, that after at least six hours, everybody must be hung
 
 As we get closer to the exit, I feel the caravan moving me further towards the front, angling my body so that I can see more than the pipe moving above me.  Several people grab my shoulder as I pass as a show of support.
 
-"I'm glad to see you're still with us, Honcho," Saifuddin beams.  Next time, we definitely need better codenames.  H-words sounded like an amusing theme last night, but that was probably after a couple of drinks.
+"I'm glad to see you're still with us, Honcho," Saifuddin beams.  Next time, we definitely need better code names.  H-words sounded like an amusing theme last night, but that was probably after a couple of drinks.
 
 "I'm pretty happy with that, myself, given the alternative.  The folks back there filled me in as well as they could.  Quite the talented bunch:  Doctors, soldiers, singers..."
 
@@ -38,7 +38,7 @@ In fact, even though we're near the end, so close to freedom for our new friends
 
 "Histrion, how has the young man been doing, the kid that the GORGON agents managed to shoot before we escaped?  I don't think I saw him as they passed me up here."
 
-"Thankfully, Odesl was only grazed in the shoulder.  They patched him up and he's been moving along fine ever since.  He helped carry you for half an hour or so, even."
+"Thankfully, Odesl was only grazed in the shoulder.  They patched him up, and he's been moving along fine ever since.  He helped carry you for half an hour or so, even."
 
 "Thank goodness for small favors."  For the first time, I notice a few people ahead, the guards we were forced to take prisoner.  "What about them?"
 
@@ -62,19 +62,19 @@ Sigh.  It almost seemed like I was going to get through to the kid for a split-s
 
 We finally reach the end of the pipeline, sun filtering in.  Our captured guards walk out first, but as soon as they're lit with sunlight, I scream out as they fall, gunned down by somebody outside.
 
-"No!  Everybody get back!  It's a trap," I hear myself hoarsely shouting, half panicked for not being able to get involved from this position.
+"No!  Everybody, get back!  It's a trap," I hear myself hoarsely shouting, half panicked for not being able to get involved from this position.
 
 The entire group shuffles back, except for the couple of the group that have been carrying seized rifles, preparing to hold off anybody who tries to rush us.  Another hail of bullets crosses the entrance, but thankfully doesn't hit anyone.  Damn!  They've had almost an entire work-day to investigate all our quick misdirection and come up with a real plan, while we were trapped with only one possible way out.  Of *course* they're waiting for us.
 
-"Someone tell me we have something to help with this mess that *isn't* a spirit of adventure and righteousness!"  I need to stop shouting.  That can't be good for anybody.
+"Someone, tell me we have something to help with this mess that *isn't* a spirit of adventure and righteousness!"  I need to stop shouting.  That can't be good for anybody.
 
 "Presumably, the Silver Bat itself will fly through to help, once someone realizes we're here, if we can hold out that long," Alexia explains.
 
 "Do we have any leftover equipment?  I'd like to be able to hold out that long."
 
-"At last count, we had six rifles, one of which was out of ammo.  There's also a smoke grenade someone scavenged from the wrecked quads, an extra explosive charge, the night-vision gear, and a couple of the oxygen tanks.  With a little bit of time, we should be able to get one of the drones flying again, too."
+"At last count, we had six rifles, one of which was out of ammo.  There's also a smoke grenade someone scavenged from the wrecked quads, an extra explosive charge, the night-vision gear, and a couple of the oxygen tanks.  With a little time, we should be able to get one of the drones flying again, too."
 
-"All right.  Get the drone working.  I'm not sure I definitely know what to do, but the more options we have, the better.  And speaking of options, someone untie me from this thing.  I won't be much use on the ground, granted, but I'll be less than useless if I need three people to coordinate just to move me around."
+"All right.  Get the drone working.  I'm not sure I definitely know what to do, but the more options we have, the better.  And speaking of options, please, untie me from this thing.  I won't be much use on the ground, granted, but I'll be less than useless if I need three people to coordinate just to move me around."
 
 They cut me loose and, probably entirely predictably, the second my feet touch the ground I want nothing more than to collapse and scream in pain.  This is going to be rough, but at the very worst, only one person needs to drag me around, like this, and it's easier for me to convince them to cut their losses if it looks like it makes more sense for them to leave me behind.
 
@@ -120,9 +120,9 @@ And that's where we launch the drone.  Tè steers it to the left, then backward.
 
 Watching its position on the map move further and further away, I see it getting closer to what we think is going to be a good target.
 
-"Now!"  Tè executes the command.  A few seconds later, off in the distance, the shockwave from an explosion rocks the pipeline.  Seconds after that, sirens sound.  We managed to wake up the Air Force.  They won't be happy, so it's more than a little bit important that we're not visible when the unwitting cavalry shows up.
+"Now!"  Tè executes the command.  A few seconds later, off in the distance, the shock wave from an explosion rocks the pipeline.  Seconds after that, sirens sound.  We managed to wake up the Air Force.  They won't be happy, so it's more than a bit important that we're not visible when the unwitting cavalry shows up.
 
-Our rifles stop firing, so I pull the sled back in.  "Everybody back!  Things are going to get a lot worse out there before they get better, so let's get clear, at least half a mile in."  I lean on Saifuddin as I bumble my way back.  Sitting would be a very good idea, right now.
+Our rifles stop firing, so I pull the sled back in.  "Everybody back!  Things are going to get a lot worse, out there, before they get better, so let's get clear, at least half a mile in."  I lean on Saifuddin as I bumble my way back.  Sitting would be a very good idea, right now.
 
 As we settle in, we hear jets flying overhead, gunfire increasing in frequency and the first bombs shaking the pipeline.
 
