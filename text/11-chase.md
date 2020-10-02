@@ -10,7 +10,7 @@ Unwilling to sit out yet another threat to our new friends, I make my way forwar
 
 "Looks to be eight utility vehicles, all black, driving in formation.  Apparently, their training comes entirely from bad action movies.  They occasionally fire off a couple of shots or sideswipe us to convince me to get off the road.  It's not working."
 
-"Lovely.  Well, let's see if I can't thin the herd a little bit."  I pat the dashboard.  "Keep her steady, but move as fast as you can."
+"Lovely.  Well, let's see if I can't thin the herd a little."  I pat the dashboard.  "Keep her steady, but move as fast as you can."
 
 "Will do!"
 
@@ -22,7 +22,7 @@ As the lead truck pulls back into position, I take aim again.  I fire low.  Once
 
 That's one down, seven to go.  Piece of cake.  Sure, just keep telling myself that.
 
-The second truck starts side-swiping the trailer, trying to disrupt Hliang's driving, but by the looks of it, she's been at this longer than I've been alive and so she isn't particularly shaken.  "Please," she says emphatically, as if she can hear my thoughts.  "I drove this baby across two hurricanes, an ice storm, and more flash floods than I can recall.  Side-swiping is barely even a mild nuisance.
+The second truck starts side-swiping the trailer, trying to disrupt Hliang's driving, but by the looks of it, she's been at this longer than I've been alive, and so she isn't particularly shaken.  "Please," she says emphatically, as if she can hear my thoughts.  "I drove this baby across two hurricanes, an ice storm, and more flash floods than I can recall.  Side-swiping is barely even a mild nuisance."
 
 I take a shot at them, confident that I learned some universal trick on the first truck right up until the driver changes speed and swerves in unexpected ways.  I should've realized that they would learn from each other at least as fast as I'm trying to.
 
@@ -56,9 +56,9 @@ Three to go.
 
 "True.  My guess is that the goal is to follow us or maybe get someone on our rig if we get distracted.  And that would probably be why I'm watching them like a hawk.  Now get the bad guys to our left.  The road gets rough up ahead and I think I have lasted this long in trucking primarily by limiting the number of catastrophes I need to deal with at any given time."
 
-Among many other regrets, this reliance on weapons that could easily kill someone if I miss even one shot seems extremely ill-advised.  On top of that, none of us is great with these things.  Either way, the family lore says that Fordyce tried to save the world by murdering people and we can all see how *that* turned out for him.
+Among many other regrets, this reliance on weapons that could easily kill someone if I miss even one shot seems extremely ill-advised.  On top of that, none of us is great with these things.  Either way, the family lore says that Fordyce tried to save the world by murdering people, and we can all see how *that* turned out for him.
 
-Anyway, one more time.  I go all out on the engine, unloading the rifle into the hood and grill.  I run out of ammunition and have a brief moment of panic, worrying that I've left us vulnerable, but the truck sputters and falls behind.  It's still not great, but it's close enough, I guess.  They're not shooting at us.
+Anyway, one more time.  I go all out on the engine, unloading the rifle into the hood and grill.  I run out of ammunition and have a moment of panic, worrying that I've left us vulnerable, but the truck sputters and falls behind.  It's still not great, but it's close enough, I guess.  They're not shooting at us.
 
 OK, two to go.
 
@@ -76,7 +76,7 @@ She flicks one of the revealed switches and closes the panel back up.  I hang ou
 
 "Do you have any recommendations?"
 
-"Since you're asking, an electric fleet would be really nice."  I really have to hope the jokes are because she's actually confident and not faking it so I don't panic.  "Short of that, the best bet is probably to call for help and get another transport down here before the authorities notice us and start getting suspicious."
+"Since you're asking, an electric fleet would be really nice."  I really have to hope the jokes are because she's actually confident and not faking it, so I don't panic.  "Short of that, the best bet is probably to call for help and get another transport down here before the authorities notice us and start getting suspicious."
 
 "All right.  None of our communications equipment has the kind of range it'd take to call Central.  What do you have?"
 
@@ -110,9 +110,9 @@ She continues.  "So, where are we heading?"
 
 "There's a Wooster Amalgamated facility up this way.  My organization has an account with them, so from there, I can get the cargo to where it needs to be and not tie you up any more than necessary."
 
-"Oh, that's OK.  My next pickup is in this direction, so it's not out of the way at all.  Protein bar?"  Also not the worst idea.  I only wish I could admit that we're hauling over a hundred dehydrated, hungry, and exhausted people so we could start solving some of those problems instead of just taking care of myself.
+"Oh, that's OK.  My next pickup is in this direction, so it's not out of the way at all.  Protein bar?"  That's also not the worst idea.  I only wish I could admit that we're hauling over a hundred dehydrated, hungry, and exhausted people, so we could start solving some of those problems instead of just taking care of myself.
 
-The little bit of food and water does wonders for me, and for the first time in hours, I'm able to rest without passing out in pain.  I'm extremely relaxed, in fact.  My arms and legs feel heavy and I can only barely feel the pain in my legs at all.  I must be far more tired than I even realized, my eyes on the verge of closing, so close to dozing off that it doesn't quite register when we continue on at full speed right past the Wooster Amalgamated shipping yard.
+The small nibbles of food and water does wonders for me, and for the first time in hours, I'm able to rest without passing out in pain.  I'm extremely relaxed, in fact.  My arms and legs feel heavy and I can only barely feel the pain in my legs at all.  I must be far more tired than I even realized, my eyes on the verge of closing, so close to dozing off that it doesn't quite register when we continue on at full speed right past the Wooster Amalgamated shipping yard.
 
 "I...think," I try to push out the words around a tongue that doesn't seem interested in working.  "Ms. Cole, I think...we maybe passed the...Wooster...uhm, place."
 
