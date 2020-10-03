@@ -2,7 +2,7 @@
 
 I want to say that my mind is racing.  It certainly feels that way, but the fact of the matter is that I can barely string two words together, so "racing" is relative.  Trapped.  Failed.  I might as well have signed death warrants for people I thought I was saving, not to mention four people I hand-picked for this mission.
 
-Soon enough, I drift back out of consciousness.  At least, that's the hope, since I would much rather that getting swallowed by a giant snake and set on fire is just another dream.  There's a lot of that sort of thing.  There's a lot of someone cutting off my feet while I impotently watch.  There's a whole lot of running to get to the people I'm responsible for, but falling further away with every last step or being unable to find my way into a Wooster Amalgamated facility with an obvious door.
+Soon enough, I drift back out of consciousness.  At least, that's the hope, since I would much rather that getting swallowed by a giant snake and set on fire is just another dream.  There's a lot of that sort of thing.  There's a lot of someone cutting off my feet while I impotently watch.  There's a *whole* lot of running to get to the people I'm responsible for, but falling further away with every last step or being unable to find my way into a Wooster Amalgamated facility with an obvious door.
 
 Eventually---I can't even guess how long---I come to.  I'm still foggy around the edges, but can see, hear, and mentally name things.  That's an upgrade, at least.  "Wh---What?"  It's the best I can get out.
 
@@ -12,7 +12,7 @@ Eventually---I can't even guess how long---I come to.  I'm still foggy around th
 
 "What...is all this?"  Wow, that was finally actually English-adjacent.
 
-"You and your...*cargo*, as you called it, are very much desired by our friends at GORGON for your little jailbreak, last night.  The word is that your team put on quite the performance.  Once you have been interrogated, my superiors might want to sell you back to them or they might want to put you all to work for themselves, depending on your natural abilities."
+"You and your...*cargo*, as you called it, are very much desired by our friends at GORGON for your little jailbreak, last night.  The word is that your team put on quite the performance.  Once you have been interrogated, my superiors might want to sell you back to them, or they might want to put you all to work for themselves, depending on your natural abilities."
 
 The implied racism of the phrase *natural abilities*, knowledge of GORGON's Flint Consolidated operations, and the extremely deliberate twang to her accent all seem like they mark our Ms. Julia Cole as an agent for the Clan of the Fiery Cross.  Again, I realize what a dolt I've been, not connecting the name *Starcross* to a *fiery cross* and, maybe worse, not realizing that the second truck arriving at nearly the same time as Starcross appeared might have been a pretty obvious sign that our entire escape was monitored by friend and foe alike.
 
@@ -24,7 +24,7 @@ I try to goad her.  "So, let me guess, the difference between you and GORGON is 
 
 "Right, the fact that the science you're citing has been discredited and surpassed for more than a century should in no way impact your belief in it, so long as you invoke the word *science*, itself."
 
-"It is the politically correct, Godless modernist that has perverted science, making it an idol to be worshipped rather than a tool to support worship."  So, that seems to be your all-purpose crazy talk.  I'm starting to see how some of these societies have survived for so long despite consistently being on the losing side of every single fight.
+"It is the politically correct, Godless modernist that has perverted science, making it an idol to be worshiped rather than a tool to support worship," so, that seems to be your all-purpose crazy talk.  I'm starting to see how some of these societies have survived for so long despite consistently being on the losing side of every single fight.
 
 I slowly reach behind my seat, trying not to move the rest of my body to hide the motion.  "So, your position is that science is right where it supports your beliefs but wrong where it corrects you?  That sounds very convenient."
 
@@ -32,7 +32,7 @@ I slowly reach behind my seat, trying not to move the rest of my body to hide th
 
 I grip and twist my fingers opposite her.  "Hang on.  What, exactly, is my kind?"
 
-"It's not your fault, of course, but your blood line is very clearly impure.  Your body is tainted by divergent evolutionary backgrounds, reducing space where intellectual pursuits might be maintained.  We could help you overcome those deficiencies, however, if you choose to join us.  Our regional director has instituted a program to burn the impurities out of a body, disconnecting each of us from our lesser ancestors."
+"It's not your fault, of course, but your bloodline is very clearly impure.  Your body is tainted by divergent evolutionary backgrounds, reducing space where intellectual pursuits might be maintained.  We could help you overcome those deficiencies, however, if you choose to join us.  Our regional director has instituted a program to burn the impurities out of a body, disconnecting each of us from our lesser ancestors."
 
 Well, I've heard enough.  I switch hands and swing my now-open water bottle out, splashing Cole as I throw it straight at her.  Luckily, I catch her off-guard, I guess wrapped up in her racist monologuing.  As she flinches, I jump for the steering wheel, pulling it to the side.
 
@@ -64,9 +64,9 @@ I tie our Ms. Cole to the passenger seat, take the keys, and hop out of the cab.
 
 "*Is* still about, unfortunately, Hawkshaw.  Our rescuer turned out to be another not so great person who gave me an earful about selling the impure back to GORGON."
 
-"You can drop the codenames," Alexia points out.  "When you're trapped for an hour with a hundred people who have been through all this right alongside us, they've more than earned our names."
+"You can drop the code names," Alexia points out.  "When you're trapped for an hour with a hundred people who have been through all this right alongside us, they've more than earned our names."
 
-"Definitely a fair point."  We move everybody off the side of the road.  I scavenge through the cab to find a couple of blankets to keep the Sun off of us and a little bit of food and water that I suspect Cole didn't drug.  "I apologize it's not much and I don't know what our next step is, but it's something.  Everybody rest while we come up with a plan."
+"Definitely a fair point."  We move everybody off the side of the road.  I scavenge through the cab to find a couple of blankets to keep the Sun off us and a bit of food and water that I suspect Cole didn't drug.  "I apologize it's not much and I don't know what our next step is, but it's something.  Everybody rest while we come up with a plan."
 
 I share the story with them, from driving by the Wooster Amalgamated depot and getting drugged to fighting Cole to finding the truck damaged and finally getting it to a complete stop.
 
@@ -76,7 +76,7 @@ I share the story with them, from driving by the Wooster Amalgamated depot and g
 
 "We are *safe*, though," Mnoqislasch points out, "and I even learned that Buttercup song!"
 
-I really appreciate the sentiment, of course, but I can tell that's a transparent lie.  I mean, sure, Mnoqislasch probably does have the lyrics down, but sitting around in the desert, already getting dehydrated, as we get close to noon?  I'm not convinced that should be on the right side of anybody's definition of safety.
+I really appreciate the sentiment, of course, but I can tell that's a transparent lie.  Sure, Mnoqislasch probably does have the lyrics down, but sitting around in the desert, already getting dehydrated, as we get close to noon?  I'm not convinced that should be on the right side of anybody's definition of safety.
 
 Honestly, after fights, stabbings, gun-fights, a car chase, and kidnapping, sitting out on the side of the road would be a truly obnoxious way to die.  It's certainly not the story I want told at my funeral.
 
