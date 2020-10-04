@@ -1,10 +1,10 @@
 # Absent Treatment
 
-Raj gets us back to the Wooster Amalgamated depot without incident, and I have to admit that I'm almost shocked at the lack of betrayal, ambush, or sudden disaster.  Workers at the depot split us up into much smaller groups, anywhere from three to eight in a batch, and parcelling us out into an assortment of unmarked cars and vans from the fleet, each with a driver selected a couple of days ago.  Unlike the fiasco with someone beating Raj to us when we didn't know who to look for, these drivers have been vetted and identified.
+Raj gets us back to the Wooster Amalgamated depot without incident, and I have to admit that I'm almost shocked at the lack of betrayal, ambush, or sudden disaster.  Workers at the depot split us up into much smaller groups, anywhere from three to eight in a batch, and parceling us out into an assortment of unmarked cars and vans from the fleet, each with a driver selected a couple of days ago.  Unlike the fiasco with someone beating Raj to us when we didn't know who to look for, these drivers have been vetted and identified.
 
-The goal is to drive back to Quivira across a variety of routes to make us more difficult to track, while keeping in constant contact with Central so that we don't risk yet another surprise attack.  It's another eight to twelve hours of driving, depending on conditions.  It'll be a little bit more stressful, but we can't easily get a hundred undocumented people through security and onto commercial flights, a charter flight would be suspicious in this case, and everyone can finally get some sleep in the cars.
+The goal is to drive back to Quivira across a variety of routes to make us more difficult to track, while keeping in constant contact with Central so that we don't risk yet another surprise attack.  It's another eight to twelve hours of driving, depending on conditions.  It'll be a little more stressful, but we can't easily get a hundred undocumented people through security and onto commercial flights, a charter flight would be suspicious in this case, and everyone can finally get some sleep in the cars.
 
-While I'm looking at the map with some of the drivers, Hliang arrives in her truck shortly after we do and I'm about to wish her luck when she reveals that she will be my driver once again.
+While I'm looking at the map with a few of the drivers, Hliang arrives in her truck shortly after we do and I'm about to wish her luck when she reveals that she will be my driver once again.
 
 Out of the corner of my eye, I see Cole moved into a security patrol car.  My understanding is that a doctor and psychiatrist will evaluate her, someone will try to debrief her, and she'll be handed off to the South Jefferson District Attorney to talk about the crimes for which there's actual proof.  If the city thinks it's worthwhile, I'll come back to testify to the broad strokes of our kidnapping, carefully talking around why we were stranded on the side of the road and willing to get into a stranger's tractor-trailer.  But that's all for another day.
 
@@ -24,7 +24,7 @@ When I wake up, it's pitch black outside, not surprising in the middle of the de
 
 "How are we getting along?"  I try to whisper, but I'm groggy enough and it's quiet enough that I have no idea how successful that is.
 
-"We're across the Saracinia state border, just a couple of hours outside of Quivira," Hliang tells me.  "If we don't hit any disasters," c'mon, don't go and *jinx* it, "you might be able to sleep a few of hours in your own bed before breakfast.  And according to our transit communications, only one car stopped off at a Wooster Amalgamated-owned garage to help one of the passengers with some sort of panic attack."  She flicks a tablet over her shoulder.  It hits me square in the chest before I even realize it's in the air.  "But everybody else is an hour or less in any direction from here, about to plan our final routes into the city and to the Arcology or safe-houses.  Even the delayed car is in constant contact to make sure we don't lose track of them."
+"We're across the Saracinia state border, just a couple of hours outside Quivira," Hliang tells me.  "If we don't hit any disasters," c'mon, don't go and *jinx* it, "you might be able to sleep a few of hours in your own bed before breakfast.  And according to our transit communications, only one car stopped off at a Wooster Amalgamated-owned garage to help one of the passengers with some sort of panic attack."  She flicks a tablet over her shoulder.  It hits me square in the chest before I even realize it's in the air.  "But everybody else is an hour or less in any direction from here, about to plan our final routes into the city and to the Arcology or safe-houses.  Even the delayed car is in constant contact to make sure we don't lose track of them."
 
 "Very nice work.  This is the third time you've saved our bacon."  I look at the screen to see the constellation of dots representing our cars and vans all heading generally towards the city limits.  Maybe I need to de-stress, but at this point, I almost feel let down by the fact that nobody's shooting at us or trying to run us off the road.  I half-expected to wake up in chains on a cement floor, the way this has been going.
 
@@ -40,7 +40,7 @@ When I wake up, it's pitch black outside, not surprising in the middle of the de
 
 Well, that's a bit mortifying.  "Oh.  Sorry about that.  I was afraid those screams weren't just a part of my dream."
 
-"I'm *mostly* just getting your goat about that, to be fair.  Your fit didn't last long and we all understand the day you've had."
+"I'm *mostly* just getting your goat about that, to be fair.  Your fit didn't last long, and we all understand the day you've had."
 
 We continue talking for a while and, true to her word, Hliang drops me at my apartment complex around midnight.  I change and collapse into bed.  Eventually, I fall asleep again, but not before I watch every last one of our cars---minus the one that stopped off for the panic attack that's still in transit---arrive at the Arcology on the tablet and then put together maybe half of a plan for tomorrow.  Or today, I guess, since it's well after midnight.
 
