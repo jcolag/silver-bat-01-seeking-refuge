@@ -8,7 +8,7 @@ We're heading for the latter kind of place, of course.  In these high-crime part
 
 On the way up, Dad walks up to a clothing kiosk that looks to mostly sell shawls and jackets.  He flashes some sort of hand signal to the owner and, when he nods, nods back and hands him a roll of cash.  Presumably, it's preparation for the trip down.
 
-Looking down below us, I can see the entire spider-web of catwalks, miles of walkways criss-crossing and traversing the block, along with the occasional elevated road.  Because natural light doesn't penetrate far down from here, it's bustling at all hours, with day often indistinguishable from night except by clock.
+Looking down below us, I can see the entire spider-web of catwalks, miles of walkways crisscrossing and traversing the block, along with the occasional elevated road.  Because natural light doesn't penetrate far down from here, it's bustling at all hours, with day often indistinguishable from night except by clock.
 
 We approach the target by the highest catwalks, the operation being set up in the top floor of a building in the center.  We're both wearing what my father calls a Silver Bat "uniform," the contents of that secretive briefcase Dad handed me back at my apartment:  Dark blue tactical pants with mostly concealed pockets, a matching turtleneck shirt, and cap with a dark reddish-brown fabric belt.  As we reach the entrance, I see the intent as my father unrolls the turtleneck up over his mouth and puts on tinted glasses and the cap:  It's a simple mask.  I follow suit and also suddenly realize all the times when I was growing up that one or the other of my parents showed up to an event wearing something similar but with a blazer on over the turtleneck, making them suddenly look the part of an iconoclastic board room executive who cares more about fashion than the ins and outs of their own business.
 
@@ -32,7 +32,7 @@ He addresses our little crowd, again.  "OK, we have a bus coming to take you to 
 
 She brightens considerably, given what everybody here has been through, and shakes Dad's hand.  I can't see the expression on her face, but if it's anything like how I feel watching as little I can see in this darkness, it probably involves a fairly large smile and at least a couple of tears.
 
-"Right.  Just keep heading down.  Five levels down, there's a kiosk where we've purchased jackets to keep you warm as you go.  When you reach the ground level, there should be a bus.  Your driver will be Asmait.  She'll take you someplace safe for the night and we'll figure out the best way to get you somewhere permanent and safe in the morning.  If anything goes wrong, contact this number as soon as you can."  Dad hands out cards with a dedicated Wooster Amalgamated phone line, shaking each of their hands.
+"Right.  Just keep heading down.  Five levels down, there's a kiosk where we've purchased jackets to keep you warm as you go.  When you reach the ground level, there should be a bus.  Your driver will be Asmait.  She'll take you someplace safe for the night, and we'll figure out the best way to get you somewhere permanent and safe in the morning.  If anything goes wrong, contact this number as soon as you can."  Dad hands out cards with a dedicated Wooster Amalgamated phone line, shaking each of their hands.
 
 "You won't be coming with us," one asks.
 
@@ -40,7 +40,7 @@ She brightens considerably, given what everybody here has been through, and shak
 
 He needs to explain himself a couple more times to convince them, but eventually they accept that they'll be able to make it twenty floors down without our help.
 
-As they move out of sight, the lights turn back on and he turns to me.
+As they move out of sight, the lights turn back on, and he turns to me.
 
 "I think that takes care of everything."  He kicks the thug again.  "And Jeeves tells me that the police should be here shortly.  Shall we head out?"
 
@@ -56,7 +56,7 @@ I follow him out and up to the roof.  We cross to another street where the polic
 
 "Errr..."
 
-He grabs my arm and jumps off the roof, pushing me slightly ahead of him.  We drop for what seems like an eternity, but is probably only four or five seconds.  It's a terrifying few seconds, regardless, with Dad pushing off of cables and pipes on our way down to reposition himself.  While he does that, I struggle to keep myself from screaming.  I'm enough of an adult to accept that fear and screaming are normal parts of life, but noise isn't a great idea while on the run from both the police and organized crime.
+He grabs my arm and jumps off the roof, pushing me slightly ahead of him.  We drop for what seems like an eternity, but is probably only four or five seconds.  It's a terrifying few seconds, regardless, with Dad pushing off from cables and pipes on our way down to reposition himself.  While he does that, I struggle to keep myself from screaming.  I'm enough of an adult to accept that fear and screaming are normal parts of life, but noise isn't a great idea while on the run from both the police and organized crime.
 
 Then, somewhere near halfway down, I'm shocked as bursts of warm air seem to erupt from the street, slowing our fall to slightly less-dangerous speeds and triggering a small, high-tech parachute my father apparently attached to my back when I wasn't paying attention.  He's sneaky, I have to give him that.
 
