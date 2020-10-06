@@ -1,6 +1,6 @@
 # Disentangling Old Bertie
 
-Well, there isn't much wiggle-room left.  It's show time.  I need to do this.  It's the last thing I want to do with my time, but it has to happen.  But it's too dangerous.  The risk is too high.  I can't do it.  I turn away.
+Well, there isn't much wiggle-room left.  It's showtime.  I need to do this.  It's the last thing I want to do with my time, but it has to happen.  But it's too dangerous.  The risk is too high.  I can't do it.  I turn away.
 
 Jeeves cranks up the volume on the bone-conducting speakers.  "Sir, I must remind you of how many people are counting on your presence, this evening."
 
@@ -24,7 +24,7 @@ Instead, I smile and clasp so many people on the shoulder.  I start reminding pe
 
 In retrospect, rehab might not have been the best excuse for withdrawing from my peers.  If I had picked literally anything else, I could fake getting blackout drunk and wander off.  Instead...
 
-"Yea, verily, I return to walk among you all, my life improved by leaps and bounds."  Woof, *verily*?  That sounded better in my head, though admittedly not a whole lot.  I imagined it as goofy, rather than just pathetic.
+"Yea, verily, I return to walk among you all, my life improved by leaps and bounds."  Woof, *verily*?  That sounded better in my head, though admittedly not a lot.  I imagined it as goofy, rather than just pathetic.
 
 I try to get into the spirit, singing and dancing with former friends and relying on the noise and festivities to keep any conversation from getting too far in depth, keep anybody from asking how a left-leaning revolutionary who defined himself by his hatred for his family's business comes out of rehab to captain that same business or how I was able to conceal a substance abuse problem---a problem allegedly dangerous enough for in-patient treatment---from literally everybody in my life.  I start to think that maybe, possibly, I can get through this as long as I can limit my interactions like this the entire time.
 
@@ -36,7 +36,7 @@ And then, suddenly, my blood runs cold as ice.  Waleed is here, not just an old 
 
 "For Yelena, I wouldn't miss it for the world.  For you, though, I might have missed it for a continent, maybe even one of the smaller continents," I half-shout over the noise as we hug.  We share a laugh over the idea.
 
-"I mean, you dropped off the face of the Earth, except for posing for the local news in front of the Wooster Amalgamated logo.  That seemed a little bit strange."  Uh-oh.  "What really happened to you?"
+"I mean, you dropped off the face of the Earth, except for posing for the local news in front of the Wooster Amalgamated logo.  That did seem a little strange."  Uh-oh.  "What really happened to you?"
 
 "This isn't the time or the *outfit* to have this discussion, Waleed.  We're here to party, to see and be seen!"
 
@@ -52,7 +52,7 @@ And, out on the dance floor, I accidentally dance my way right into Yelena's arm
 
 "You're too kind, Eebee.  I'm blushing!"
 
-"But, more importantly, are you blushing too much to compliment my new jacket?"  I jump back a step and smoothe the jacket out.
+"But, more importantly, are you blushing too much to compliment my new jacket?"  I jump back a step and smooth the jacket out.
 
 She laughs.  "Oh, yes, that's very fancy, Eebee.  Speaking of fancy things, I never had the chance to ask you why you were in my old neighborhood, back on your birthday?  I heard some rumors that Wooster Amalgamated was setting up some sort of cooperative trust for the residents, but that doesn't sound like the family business you've been railing against for so long."  She does the little angry hand motion to indicate me railing against my parents, and I'm back to a world where my blood runs cold.  I have to think fast.
 
@@ -66,11 +66,11 @@ I try to shake the question off by dancing more intently.  I try to change the s
 
 "I'd love to see that sometime soon, but you know that's not what I meant.  I know---we *all* know---that your beliefs, your moral codes, are nothing like how Wooster Amalgamated does business, so a lot of us are worried that they're treating you like some sort of prisoner."
 
-"It's not like that, Yelena."  I have no clue where to go with this, but it's obviously the make-or-break moment, so I need to let some seriousness creep back into my demeanor.  "In rehab, I realized that keeping up with my little excursions was the trigger causing me to use.  So, I had to let that go and Wooster Amalgamated gives me structure and forces me to be responsible for someone other than myself so I don't fall off the wagon.  It's past time I put away my childish things."
+"It's not like that, Yelena."  I have no clue where to go with this, but it's obviously the make-or-break moment, so I need to let some seriousness creep back into my demeanor.  "In rehab, I realized that keeping up with my little excursions was the trigger causing me to use.  So, I had to let that go and Wooster Amalgamated gives me structure and forces me to be responsible for someone other than myself, so I don't fall off the wagon.  It's past time I put away my childish things."
 
 "That would be the tiniest bit more convincing if you were wearing different pants."
 
-"I know it seems strange.  Change is hard to deal with for some people."  I'm deliberately pushing Yelena's buttons, here.  Her life has exploded more times than I care to recall and she takes everything in stride.  I'm banking on her stubbornness pushing her to just take me at face value.  "Even though change is hard, I've had to change to be healthy.  I hope you can see that.  I hope that you can accept that, accept *me*, even though I'm a corporate fat-cat."
+"I know it seems strange.  Change is hard to deal with for some people."  I'm deliberately pushing Yelena's buttons, here.  Her life has exploded more times than I care to recall, and she takes everything in stride.  I'm banking on her stubbornness pushing her to just take me at face value.  "Even though change is hard, I've had to change to be healthy.  I hope you can see that.  I hope that you can accept that, accept *me*, even though I'm a corporate fat-cat."
 
 "We're friends, Eebee.  You know I'm always going to accept you for what you are, but---"
 
@@ -102,7 +102,7 @@ I go down and stay down, babbling about not wanting to ruin the party, which is 
 
 "Keep the party partying.  I'll be back in a few.  Woooooo," I scream.
 
-As Jeeves carries me off with a little bit of help, I see Yelena confront Declan.  I hope I didn't wreck a good thing for her, but this was an easy way out of the party that solidifies my image as a spineless weakling.
+As Jeeves carries me off with a bit of help, I see Yelena confront Declan.  I hope I didn't wreck a good thing for her, but this was an easy way out of the party that solidifies my image as a spineless weakling.
 
 "Wasn't that a rather extreme reaction to merely feeling trapped," Jeeves asks as he loads me into the back seat.
 
