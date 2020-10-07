@@ -26,13 +26,13 @@ Climbing in, I ask the children to be quiet while I jam the door to the main roo
 
 Across the alley, I wave to Marco Quintero, one of my neighbors, a music teacher who I was able to save from a shakedown by agents of La Mano de la Serpiente.  They wanted him to teach his students a slightly different musical scale to not interfere with some sort of mass-hypnotic scheme they had planned, as if that sounds the slightest bit rational.  In any case, Marco said he'd owe me a favor and, while I assume he meant buying me lunch, I need him to wrangle the kids down to Zarifa, down on one of the street levels, where she can take the kids back to the Arcology where we can find their parents.  And I'm pretty sure he didn't recognize me as anything other than a masked vigilante.
 
-I follow them across to the apartment we're borrowing.  "OK, kids, I'll meet back with you later, but you're safe now.  Just follow Mr. Marco and he'll put you on a bus for a fun ride!"
+I follow them across to the apartment we're borrowing.  "OK, kids, I'll meet back with you later, but you're safe now.  Just follow Mr. Marco, and he'll put you on a bus for a fun ride to safety!"
 
-One of the older kids hugs me.  "They tried to hurt us and told us we didn't have families anymore."  I suppose that crying would be a bad thing, right now.
+One of the older kids hugs me.  "They tried to hurt us and told us we didn't have families anymore."  I suppose that crying would be a bad thing, right now, or at least inconvenient.
 
-"Well, we'll keep you safe and we'll try hard to find your parents.  But first, you need to get to the bus and I need to make sure those men never hurt you again."  I hand Marco a small radio.  "A friend is watching on the building's surveillance.  If he sees anything in your way, he'll find you another route.  He'll also keep track of any of the little ones that might get sidetracked.  I'm sorry to put so much on you as part of your favor."
+"Well, we'll keep you safe, and we'll try hard to find your parents.  But first, you need to get to the bus and I need to make sure those men never hurt you again."  I hand Marco a small radio.  "A friend is watching on the building's surveillance.  If he sees anything in your way, he'll find you another route.  He'll also keep track of any little ones that might get sidetracked.  I'm sorry to put so much on you as part of your favor."
 
-"Hey, no problem.  It's for a good cause and we're neighbors.  Or am I not supposed to know who you are?"
+"Hey, no problem.  It's for a good cause, and we're neighbors.  Or am I not supposed to know who you are?"
 
 Damn.  "It wouldn't have been my *first* choice.  But as long as you know and you're up for it, drop by for dinner one night, if you want to join the team."
 
@@ -56,11 +56,11 @@ Then, moving as quickly as I can, I attack with the rifle butt, knocking the fir
 
 I whirl around in time to see the remaining jerk struggle to his feet, rifle raised.  I kick him again and crack him over the head.  Poking my head into the other room to make sure I didn't miss anybody and coming up empty, I take a minute to tie them together in the middle of the room.
 
-Just as the door bursts open, I jump out the window and back up to the roof.  It's not exactly the best timing, but all they would've seen are shoes and they've got five people to book instead of me.  I crouch down and run across a few rooftops where I hung a rope, where I slide down to the road level and grab the sweater I hid at the other end.  Ditching the glasses and hat, I can easily cross the quiet street to my waiting car.
+Just as the door bursts open, I jump out the window and back up to the roof.  It's not exactly the best timing, but all they would've seen are shoes, and they've got five people to book instead of me.  I crouch and run across a few rooftops where I hung a rope, where I slide down to the road level and grab the sweater I hid at the other end.  Ditching the glasses and hat, I can easily cross the quiet street to my waiting car.
 
 "How did Marco get along, Jeeves?"
 
-"We have all children accounted for on the bus, in transit to the Arcology, with only one minor mishap along the way.  Zarifa reports that they are content and she has handed out light snacks to hold them over."
+"We have all children accounted for on the bus, in transit to the Arcology, with only one minor mishap along the way.  Zarifa reports that they are content, and she has handed out light snacks to hold them over."
 
 "All right, excellent.  I'm on my way.  We're going to need all hands on deck to track down their parents.  Odds are we're not going to get many full names and addresses, especially from the toddlers.  Any chance we'll be able to incriminate the buyers?"
 
@@ -74,4 +74,4 @@ Speaking of celebrating the little things, that reminds me.  "Jeeves, do me a fa
 
 "Indeed, sir.  I will also dust the books while I am at it.  Perhaps I will strap the duster to my elbow."
 
-Wait.  Has he *not* been dusting the books for all these years?  Well, whatever.  I think what I'm really celebrating is that I might have actually found a way to make this crazy life work and hopefully even do some real good along the way.
+Wait.  Has he *not* been dusting the books for all these years?  Well, whatever.  I think what I'm really celebrating is that I might have actually found a way to make this crazy life work and---I hope---even do some real good along the way.
