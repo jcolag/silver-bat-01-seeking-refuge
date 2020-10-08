@@ -97,7 +97,7 @@ Note that most of the original characters---specifically the League agents and B
 
 ## Companies
 
-Brainz and NuloNetu are fictional versions of real-world social networks running on open source software, which will not be named, that recruit users on freedom of speech grounds and cultivate communities that tend towards obsession with right-wing conspiracy theories.  The Fediverse is real, a social network that uses the *ActivityPub* protocol and is spread across software such as Friendica, Funkwhale, Mastodon, NextCloud, PeerTube, PixelFed, Pleroma, WriteFreely, and others; it's community is mostly decent.
+Brainz and NuloNetu are fictional versions of real-world social networks running on open source software---which will not be named, since they don't need the publicity---that recruit users on "freedom of speech" grounds and cultivate communities that tend towards obsession with right-wing conspiracy theories.  The Fediverse is real, a social network that uses the *ActivityPub* protocol and is spread across software such as Friendica, Funkwhale, Mastodon, NextCloud, PeerTube, PixelFed, Pleroma, WriteFreely, and others; its community is mostly decent, from what I can tell.
 
 Flint Consolidated Services Corporation is adapted from ideas in **The Air Trust** (1915) by George Allan England.  In that novel, Isaac Flint does indeed attempt to create a monopoly on oxygen, so a modern equivalent of that trust seems appropriate to be invested in industries that cut against what consumers would prefer.
 
@@ -107,7 +107,7 @@ The names of most of the online companies were adapted from output provided by R
 
 ## Miscellaneous
 
-*Baritsu* is a fighting style used by Sherlock Holmes, in all likelihood a typo for or spoof of Bartitsu, a self-defense art created by engineer Edward William Barton-Wright comgining aspects of boxing, wrestling, fencing, savate, and other traditions.
+*Baritsu* is a fighting style used by Sherlock Holmes, in all likelihood a typo for or spoof of Bartitsu, a self-defense art created by engineer Edward William Barton-Wright combining aspects of boxing, wrestling, fencing, savate, and other traditions.
 
 *Bilphism* is a religion used, though not well described, in **The Beautiful and the Damned** (1922) by F. Scott Fitzgerald.
 
@@ -116,7 +116,7 @@ Poems used as epigrams are:
  * *The New Colossus* (1833), Emma Lazarus, Chapter 6
  * *Hearts in Exile* (1913), William Arthur Dunkerley, under the pseudonym John Oxenham, Chapter 9
 
-It's a little bit pretentious, but they fit the chapters in question and maybe the whole story is at least a little bit pretentious...
+It's pretentious, sure, but they fit the chapters in question and maybe the whole story is at least a *little* pretentious...
 
 ## Technical
 
