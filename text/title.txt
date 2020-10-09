@@ -1,8 +1,9 @@
 ---
 title: Seeking Refuge
 author: John Colagioia
-rights: Creative Commons Attribution Share Alike 4.0
+rights: Creative Commons Attribution Share-Alike 4.0
 lang: en-US
 date: 2019-11-30
+update: 2020-10-09
 css: assets/refuge.css
 ---
