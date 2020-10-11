@@ -122,4 +122,4 @@ It's pretentious, sure, but they fit the chapters in question and maybe the whol
 
 The cover image is based on *An Alley in the City of Darkness* by Ian Lambot, made available under the Creative Commons Attribution 4.0 International license, and *dark, night, light* by Etienne Marais, made available under the Creative Commons Zero license.  The cover text uses the Ardeco font designed by Irina Chukina and made available under the terms of the OFL.
 
-Interior text is set in Adobe's Source Sans Pro with headings in Comfortaa, designed by Johan Aakerlund and Cyreal, both also made available under the terms of the OFL.
+Interior text is set in Adobe's Source Serif Pro with headings in Comfortaa, designed by Johan Aakerlund and Cyreal, both also made available under the terms of the OFL.
