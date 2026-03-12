@@ -1,0 +1,39 @@
+.docname {Seeking Refuge}
+.doctype {paged}
+.doclang {English}
+.theme {paperwhite} layout:{beamer}
+.pageformat width:{4.25in} height:{6.87in} margin:{0.25in}
+.font {GoogleFonts:Source Sans Pro} heading:{GoogleFonts:Comfortaa}
+
+.docauthors
+  - John Colagioia
+
+.pagemargin {bottomcenter}
+    .currentpage
+
+.numbering
+  - headings: none
+
+.include {00-titles.md}
+.tableofcontents maxdepth:{2}
+.include {01-teaser.md}
+.include {02-intro.md}
+.include {03-ropes.md}
+.include {04-underworld.md}
+.include {05-threshold.md}
+.include {06-plan.md}
+.include {07-entrance.md}
+.include {08-guests.md}
+.include {09-jailbreak.md}
+.include {10-escape.md}
+.include {11-chase.md}
+.include {12-mercy.md}
+.include {13-recover.md}
+.include {14-father.md}
+.include {15-abyss.md}
+.include {16-jeeves.md}
+.include {17-party.md}
+.include {18-reconcile.md}
+.include {19-finale.md}
+.include {20-credits.md}
+

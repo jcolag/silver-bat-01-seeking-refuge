@@ -1,0 +1,12 @@
+.docname {Seeking Refuge Frontmatter}
+.doctype {paged}
+.doclang {English}
+.theme {paperwhite} layout:{beamer}
+.pageformat width:{4.25in} height:{6.87in} margin:{0.25in}
+.font {GoogleFonts:Source Sans Pro} heading:{GoogleFonts:Comfortaa}
+
+.docauthors
+  - John Colagioia
+
+.include {00-frontmatter.md}
+
