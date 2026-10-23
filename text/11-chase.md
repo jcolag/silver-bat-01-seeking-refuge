@@ -1,3 +1,9 @@
+<!--
+SPDX-FileCopyrightText: 2020 John Colagioia <john@colagioia.net>
+
+SPDX-License-Identifier: CC-BY-SA-4.0
+-->
+
 # Managing the Old Bump and Run
 
 Once the truck has gained speed, we hear staccato sounds from outside as the trailer sways from side to side.

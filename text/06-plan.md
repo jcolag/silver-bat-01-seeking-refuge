@@ -1,3 +1,9 @@
+<!--
+SPDX-FileCopyrightText: 2020 John Colagioia <john@colagioia.net>
+
+SPDX-License-Identifier: CC-BY-SA-4.0
+-->
+
 # Lines and Businesses
 
 > *Not like the brazen giant of Greek fame,*  

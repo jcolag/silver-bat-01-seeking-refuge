@@ -1,3 +1,9 @@
+<!--
+SPDX-FileCopyrightText: 2020 John Colagioia <john@colagioia.net>
+
+SPDX-License-Identifier: CC-BY-SA-4.0
+-->
+
 # The Silver Bat in the Springtime
 
 I can count two important things that I've learned in my first few months at this.  First, as much training as I get, it looks like I may never feel comfortable out in the field.  Second, sending anybody into the field alone, even briefly, always creates a recipe for unnecessary pain somewhere.

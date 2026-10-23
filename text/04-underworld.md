@@ -1,3 +1,9 @@
+<!--
+SPDX-FileCopyrightText: 2020 John Colagioia <john@colagioia.net>
+
+SPDX-License-Identifier: CC-BY-SA-4.0
+-->
+
 # Bertie Descends into the Underworld
 
  > We seek him here, we seek him there,  

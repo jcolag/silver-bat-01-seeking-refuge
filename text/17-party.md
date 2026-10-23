@@ -1,3 +1,9 @@
+<!--
+SPDX-FileCopyrightText: 2020 John Colagioia <john@colagioia.net>
+
+SPDX-License-Identifier: CC-BY-SA-4.0
+-->
+
 # Disentangling Old Bertie
 
 Well, I don't have much wiggle-room left.  Show time has arrived.  I need to do this.  It feels like the last thing that I want to do with my time, but it has to happen sooner or later.  But it seems too dangerous.  The risk has gotten too high.  I can't do it.  I turn away.

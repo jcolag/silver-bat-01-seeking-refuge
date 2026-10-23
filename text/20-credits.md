@@ -1,3 +1,9 @@
+<!--
+SPDX-FileCopyrightText: 2020 John Colagioia <john@colagioia.net>
+
+SPDX-License-Identifier: CC-BY-SA-4.0
+-->
+
 # Credits
 
 As Isaac Newton put it in 1675, or at least nearly so, "if I have seen further it is by standing on the shoulders of Giants."  In this case, many elements from this story originate from other sources that have either fallen into the public domain - as of 2019, when I wrote the first edition - or the creators have made them available under a Free Culture license.

@@ -1,3 +1,9 @@
+<!--
+SPDX-FileCopyrightText: 2020 John Colagioia <john@colagioia.net>
+
+SPDX-License-Identifier: CC-BY-SA-4.0
+-->
+
 # The Purity of the Turf
 
 I mostly wake back up a few more miles in, what seems like somewhere probably somewhere near the halfway point.  Both my legs throb, and somebody has tied them up in assorted improvised first aid devices.  It should go without saying that I don't stay conscious for long, mostly just long enough to moan and possibly scream in pain.

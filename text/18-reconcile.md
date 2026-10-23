@@ -1,3 +1,9 @@
+<!--
+SPDX-FileCopyrightText: 2020 John Colagioia <john@colagioia.net>
+
+SPDX-License-Identifier: CC-BY-SA-4.0
+-->
+
 # Bertie Takes Charge
 
 A few days later - no concussion from my run-in with Declan, thank you very much - I get a surprise visitor at my office.

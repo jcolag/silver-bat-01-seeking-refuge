@@ -1,3 +1,9 @@
+<!--
+SPDX-FileCopyrightText: 2020 John Colagioia <john@colagioia.net>
+
+SPDX-License-Identifier: CC-BY-SA-4.0
+-->
+
 # Concealed Art
 
 I want to say that my mind races, at this point.  It certainly feels like it does.  But in actual fact, to an outside observer, it probably looks a lot more like I can barely string two words together, so consider "racing" a relative term.  Trapped.  Failed.  I might as well have signed death warrants for people who I thought I had saved, not to mention four people who I hand-picked for this mission.

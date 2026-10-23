@@ -1,3 +1,9 @@
+<!--
+SPDX-FileCopyrightText: 2020 John Colagioia <john@colagioia.net>
+
+SPDX-License-Identifier: CC-BY-SA-4.0
+-->
+
 # Bertie Learns the Ropes
 
 I've seen a lot of relationships - I've been in a few, too - where you suddenly notice one *tiny* inconsistency, something that almost seems like it should amount to nothing consequential.  But you tug on it like a thread, because it seems out of place, and then your understanding of the entire relationship suddenly falls apart, bringing everything crashing down in the realization that your lover, your friend, your parent, your whatever isn't the person you thought they were.

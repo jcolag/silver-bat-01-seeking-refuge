@@ -1,3 +1,9 @@
+<!--
+SPDX-FileCopyrightText: 2020 John Colagioia <john@colagioia.net>
+
+SPDX-License-Identifier: CC-BY-SA-4.0
+-->
+
 # The Silver Bat
 
 I woke up to five messages, this morning, two parents and three grandparents.  Did they text to wish me a happy birthday?  No, my family never works that way.  Instead, they all summoned me to the Quivira headquarters of Wooster Amalgamated, as if I scheduled an important meeting and flaked on them.  And "report for duty" doesn't sound like this is all for a surprise party.

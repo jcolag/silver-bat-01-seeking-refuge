@@ -1,3 +1,9 @@
+<!--
+SPDX-FileCopyrightText: 2020 John Colagioia <john@colagioia.net>
+
+SPDX-License-Identifier: CC-BY-SA-4.0
+-->
+
 # A Signal of Introduction
 
 The guards keep coming, and they increasingly overwhelm us as we run low on options.  We don't want to (deliberately) kill anybody, and we don't have nearly the means to fight off an entire army, even if we didn't care about casualties.

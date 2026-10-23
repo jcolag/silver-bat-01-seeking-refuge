@@ -1,4 +1,9 @@
 #!/bin/bash
+
+# SPDX-FileCopyrightText: 2020 John Colagioia <john@colagioia.net>
+#
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
 cover=$(mktemp --suffix=.pdf)
 back=$(mktemp --suffix=.pdf)
 blank=$(mktemp --suffix=.pdf)

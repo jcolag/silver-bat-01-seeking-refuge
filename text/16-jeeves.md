@@ -1,3 +1,9 @@
+<!--
+SPDX-FileCopyrightText: 2020 John Colagioia <john@colagioia.net>
+
+SPDX-License-Identifier: CC-BY-SA-4.0
+-->
+
 # The Inimitable Jeeves
 
 The following morning, I call around the office to make sure an absent and extremely new Chief Executive Officer doesn't accidentally destroy the company's financial situation.  I probably shouldn't admit to any of this surprising me, but it looks like, after a hundred-plus years of corporate leadership by people who sometimes vanish for weeks at a time, the place more or less runs itself unless something big appears on the radar such as a merger.

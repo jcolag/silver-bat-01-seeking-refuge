@@ -1,3 +1,9 @@
+<!--
+SPDX-FileCopyrightText: 2020 John Colagioia <john@colagioia.net>
+
+SPDX-License-Identifier: CC-BY-SA-4.0
+-->
+
 # The Metropolitan Touch
 
 In most neighborhoods in Quivira, status equates to altitude.  There, the most manual laborers and retailers toil away at sea level and below, while the wealthy manage our investments while breathing the rarefied and much more open air of penthouses.

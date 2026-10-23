@@ -1,3 +1,9 @@
+<!--
+SPDX-FileCopyrightText: 2020 John Colagioia <john@colagioia.net>
+
+SPDX-License-Identifier: CC-BY-SA-4.0
+-->
+
 # Creative Commons Attribution, Share-Alike License
 
 Except where otherwise noted, content in this book is licensed under a [Creative Commons Attribution, Share-Alike license](https://creativecommons.org/licenses/by-sa/4.0/).

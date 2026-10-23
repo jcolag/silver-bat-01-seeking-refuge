@@ -1,3 +1,9 @@
+<!--
+SPDX-FileCopyrightText: 2020 John Colagioia <john@colagioia.net>
+
+SPDX-License-Identifier: CC-BY-SA-4.0
+-->
+
 # Rallying Round the Old Threshold
 
 I may never get used to using this space as my office.  Honestly, I may never get used to this as an office at all.  The hexagonal space dwarfs even my comically enormous desk, to start with, but more than that, they covered the walls in video screens.  In this case, I have dozens of maps, surveillance, dossiers, and profiles of agents, floating around my vision.  We might not have the capacity to go toe-to-toe with the United States government, but with President Hepler's cronies using him as a smokescreen, they've made themselves far more vulnerable.

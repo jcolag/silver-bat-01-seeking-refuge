@@ -1,3 +1,9 @@
+<!--
+SPDX-FileCopyrightText: 2020 John Colagioia <john@colagioia.net>
+
+SPDX-License-Identifier: CC-BY-SA-4.0
+-->
+
 # Sir Albert Comes to Breakfast
 
 I wake up with the Sun, making myself an omelette with whatever vegetables that I can scrape up in the refrigerator that have passed their primes.  Realizing that I probably want a little bit more, I call down to the bakery to have them run up some rolls.  Jeeves has gone gallivanting for a couple of days as his family gets him more involved in League operations, like mine did for me, but I can mostly fend for myself.

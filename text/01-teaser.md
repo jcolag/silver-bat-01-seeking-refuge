@@ -1,3 +1,9 @@
+<!--
+SPDX-FileCopyrightText: 2020 John Colagioia <john@colagioia.net>
+
+SPDX-License-Identifier: CC-BY-SA-4.0
+-->
+
 # Just Another Night in the Life
 
 Clang, clang, clang.  Bang, rat-a-tat.  Clang, clang, clang, clang.  Rat-a-tat.  This is getting repetitive.

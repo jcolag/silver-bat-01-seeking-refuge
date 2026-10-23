@@ -1,3 +1,9 @@
+<!--
+SPDX-FileCopyrightText: 2020 John Colagioia <john@colagioia.net>
+
+SPDX-License-Identifier: CC-BY-SA-4.0
+-->
+
 # Absent Treatment
 
 Raj gets us back to the Wooster Amalgamated depot without incident, and I have to admit that I almost feel shocked at the lack of betrayal, ambush, or sudden disaster.  Workers at the depot split us up into much smaller groups, anywhere from three to eight in a batch, and parcel us out into an assortment of unmarked cars and vans from the fleet, each with a driver selected a couple of days ago.  Unlike the fiasco with someone beating Raj to us when we didn't know who to look for, the organization has fully identified and vetted these drivers.
